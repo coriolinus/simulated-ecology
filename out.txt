@@ -1,0 +1,3999 @@
+
+0000: Forest has 85 saplings, 130 trees, 85 elder trees, 61 lumberjacks and 14 bears
+0000: 1 bear cub matures
+0000: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0000: 45 pieces of lumber harvested
+Feb 0000: 23 new saplings sprouted
+Feb 0000: 7 lumberjacks mauled by bears
+Mar 0000: 27 pieces of lumber harvested
+Mar 0000: 9 new saplings sprouted
+Mar 0000: 2 lumberjacks mauled by bears
+Apr 0000: 15 pieces of lumber harvested
+Apr 0000: 13 new saplings sprouted
+Apr 0000: 4 lumberjacks mauled by bears
+May 0000: 14 pieces of lumber harvested
+May 0000: 10 new saplings sprouted
+May 0000: 1 lumberjacks mauled by bears
+Jun 0000: 13 pieces of lumber harvested
+Jun 0000: 14 new saplings sprouted
+Jun 0000: 2 lumberjacks mauled by bears
+Jul 0000: 9 pieces of lumber harvested
+Jul 0000: 9 new saplings sprouted
+Aug 0000: 4 pieces of lumber harvested
+Aug 0000: 9 new saplings sprouted
+Aug 0000: 1 lumberjacks mauled by bears
+Sep 0000: 4 pieces of lumber harvested
+Sep 0000: 7 new saplings sprouted
+Oct 0000: 4 pieces of lumber harvested
+Oct 0000: 9 new saplings sprouted
+Nov 0000: 7 pieces of lumber harvested
+Nov 0000: 5 new saplings sprouted
+Dec 0000: 7 pieces of lumber harvested
+Dec 0000: 6 new saplings sprouted
+Jan 0001: 6 new saplings sprouted
+Jan 0001: 1 lumberjacks mauled by bears
+
+0001: Forest has 120 saplings, 138 trees, 49 elder trees, 46 lumberjacks and 0 bears
+0001: For 18 maulings this year 18 bear killed
+0001: Given productivity of 3.5 lumber per jack, 3 were hired
+
+Feb 0001: 9 pieces of lumber harvested
+Feb 0001: 5 new saplings sprouted
+Mar 0001: 7 pieces of lumber harvested
+Mar 0001: 6 new saplings sprouted
+Apr 0001: 10 pieces of lumber harvested
+Apr 0001: 4 new saplings sprouted
+May 0001: 12 pieces of lumber harvested
+May 0001: 9 new saplings sprouted
+Jun 0001: 4 pieces of lumber harvested
+Jun 0001: 5 new saplings sprouted
+Jul 0001: 3 pieces of lumber harvested
+Jul 0001: 6 new saplings sprouted
+Aug 0001: 3 pieces of lumber harvested
+Aug 0001: 4 new saplings sprouted
+Sep 0001: 4 pieces of lumber harvested
+Sep 0001: 1 new saplings sprouted
+Oct 0001: 1 pieces of lumber harvested
+Oct 0001: 4 new saplings sprouted
+Nov 0001: 2 pieces of lumber harvested
+Nov 0001: 3 new saplings sprouted
+Dec 0001: 5 pieces of lumber harvested
+Dec 0001: 4 new saplings sprouted
+Jan 0002: 5 pieces of lumber harvested
+Jan 0002: 4 new saplings sprouted
+
+0002: Forest has 55 saplings, 209 trees, 41 elder trees, 47 lumberjacks and 1 bears
+0002: 1 bear cub matures
+0002: Given productivity of 1.4 lumber per jack, 1 were hired
+
+Feb 0002: 1 pieces of lumber harvested
+Feb 0002: 2 new saplings sprouted
+Mar 0002: 2 pieces of lumber harvested
+Mar 0002: 7 new saplings sprouted
+Apr 0002: 4 pieces of lumber harvested
+Apr 0002: 5 new saplings sprouted
+May 0002: 5 pieces of lumber harvested
+May 0002: 5 new saplings sprouted
+Jun 0002: 1 pieces of lumber harvested
+Jun 0002: 2 new saplings sprouted
+Jul 0002: 1 pieces of lumber harvested
+Jul 0002: 3 new saplings sprouted
+Aug 0002: 5 pieces of lumber harvested
+Aug 0002: 2 new saplings sprouted
+Sep 0002: 8 pieces of lumber harvested
+Sep 0002: 1 new saplings sprouted
+Oct 0002: 5 pieces of lumber harvested
+Oct 0002: 7 new saplings sprouted
+Nov 0002: 7 pieces of lumber harvested
+Dec 0002: 4 pieces of lumber harvested
+Dec 0002: 1 new saplings sprouted
+Jan 0003: 4 pieces of lumber harvested
+Jan 0003: 2 new saplings sprouted
+
+0003: Forest has 37 saplings, 227 trees, 36 elder trees, 48 lumberjacks and 2 bears
+0003: 1 bear cub matures
+0003: Given productivity of 1.0 lumber per jack, 1 were hired
+
+Feb 0003: 6 pieces of lumber harvested
+Feb 0003: 5 new saplings sprouted
+Mar 0003: 2 pieces of lumber harvested
+Mar 0003: 1 new saplings sprouted
+Apr 0003: 2 pieces of lumber harvested
+Apr 0003: 3 new saplings sprouted
+May 0003: 2 pieces of lumber harvested
+May 0003: 4 new saplings sprouted
+Jun 0003: 3 pieces of lumber harvested
+Jun 0003: 4 new saplings sprouted
+Jul 0003: 1 pieces of lumber harvested
+Aug 0003: 4 pieces of lumber harvested
+Aug 0003: 1 new saplings sprouted
+Sep 0003: 3 pieces of lumber harvested
+Sep 0003: 2 new saplings sprouted
+Oct 0003: 4 pieces of lumber harvested
+Oct 0003: 6 new saplings sprouted
+Nov 0003: 8 pieces of lumber harvested
+Nov 0003: 3 new saplings sprouted
+Dec 0003: 5 pieces of lumber harvested
+Dec 0003: 1 lumberjacks mauled by bears
+Jan 0004: 5 pieces of lumber harvested
+
+0004: Forest has 29 saplings, 224 trees, 35 elder trees, 46 lumberjacks and 1 bears
+0004: For 1 maulings this year 1 bear killed
+0004: Given low productivity of 1.0 lumber per jack, 1 was fired
+
+Feb 0004: 5 pieces of lumber harvested
+Feb 0004: 1 new saplings sprouted
+Mar 0004: 1 pieces of lumber harvested
+Mar 0004: 3 new saplings sprouted
+Apr 0004: 4 pieces of lumber harvested
+Apr 0004: 1 new saplings sprouted
+May 0004: 4 pieces of lumber harvested
+May 0004: 3 new saplings sprouted
+Jun 0004: 1 pieces of lumber harvested
+Jun 0004: 1 new saplings sprouted
+Jul 0004: 3 pieces of lumber harvested
+Jul 0004: 3 new saplings sprouted
+Aug 0004: 2 pieces of lumber harvested
+Aug 0004: 1 new saplings sprouted
+Sep 0004: 3 pieces of lumber harvested
+Sep 0004: 1 new saplings sprouted
+Oct 0004: 3 pieces of lumber harvested
+Oct 0004: 1 new saplings sprouted
+Nov 0004: 2 pieces of lumber harvested
+Nov 0004: 4 new saplings sprouted
+Dec 0004: 2 pieces of lumber harvested
+Jan 0005: 1 pieces of lumber harvested
+Jan 0005: 2 new saplings sprouted
+
+0005: Forest has 21 saplings, 219 trees, 42 elder trees, 45 lumberjacks and 2 bears
+0005: 1 bear cub matures
+0005: Given low productivity of 0.7 lumber per jack, 1 was fired
+
+Feb 0005: 2 pieces of lumber harvested
+Feb 0005: 2 new saplings sprouted
+Mar 0005: 3 pieces of lumber harvested
+Apr 0005: 1 pieces of lumber harvested
+Apr 0005: 2 new saplings sprouted
+May 0005: 1 new saplings sprouted
+Jun 0005: 2 pieces of lumber harvested
+Jul 0005: 1 pieces of lumber harvested
+Jul 0005: 1 new saplings sprouted
+Aug 0005: 1 new saplings sprouted
+Sep 0005: 3 pieces of lumber harvested
+Sep 0005: 1 new saplings sprouted
+Oct 0005: 4 pieces of lumber harvested
+Nov 0005: 3 pieces of lumber harvested
+Nov 0005: 1 new saplings sprouted
+Dec 0005: 1 new saplings sprouted
+Jan 0006: 1 pieces of lumber harvested
+
+0006: Forest has 10 saplings, 220 trees, 44 elder trees, 44 lumberjacks and 3 bears
+0006: 1 bear cub matures
+0006: Given low productivity of 0.4 lumber per jack, 1 was fired
+
+Feb 0006: 2 pieces of lumber harvested
+Feb 0006: 2 new saplings sprouted
+Feb 0006: 1 lumberjacks mauled by bears
+Mar 0006: 1 pieces of lumber harvested
+Mar 0006: 1 new saplings sprouted
+Mar 0006: 1 lumberjacks mauled by bears
+Apr 0006: 2 pieces of lumber harvested
+Apr 0006: 2 new saplings sprouted
+Apr 0006: 1 lumberjacks mauled by bears
+May 0006: 3 pieces of lumber harvested
+May 0006: 1 new saplings sprouted
+Jun 0006: 3 pieces of lumber harvested
+Jun 0006: 1 lumberjacks mauled by bears
+Jul 0006: 1 pieces of lumber harvested
+Jul 0006: 1 new saplings sprouted
+Aug 0006: 1 pieces of lumber harvested
+Aug 0006: 3 new saplings sprouted
+Aug 0006: 1 lumberjacks mauled by bears
+Sep 0006: 1 pieces of lumber harvested
+Sep 0006: 2 new saplings sprouted
+Oct 0006: 2 pieces of lumber harvested
+Oct 0006: 1 new saplings sprouted
+Nov 0006: 1 pieces of lumber harvested
+Nov 0006: 1 new saplings sprouted
+Dec 0006: 5 pieces of lumber harvested
+
+0007: Forest has 14 saplings, 200 trees, 54 elder trees, 38 lumberjacks and 0 bears
+0007: For 5 maulings this year 5 bear killed
+0007: Given low productivity of 0.6 lumber per jack, 1 was fired
+
+Feb 0007: 2 new saplings sprouted
+Mar 0007: 2 new saplings sprouted
+Apr 0007: 1 pieces of lumber harvested
+Apr 0007: 2 new saplings sprouted
+May 0007: 2 new saplings sprouted
+Jun 0007: 1 new saplings sprouted
+Jul 0007: 1 pieces of lumber harvested
+Jul 0007: 1 new saplings sprouted
+Aug 0007: 2 pieces of lumber harvested
+Aug 0007: 1 new saplings sprouted
+Sep 0007: 4 pieces of lumber harvested
+Oct 0007: 1 new saplings sprouted
+Dec 0007: 3 pieces of lumber harvested
+Dec 0007: 1 new saplings sprouted
+Jan 0008: 2 pieces of lumber harvested
+Jan 0008: 1 new saplings sprouted
+
+0008: Forest has 14 saplings, 203 trees, 54 elder trees, 37 lumberjacks and 1 bears
+0008: 1 bear cub matures
+0008: Given low productivity of 0.3 lumber per jack, 1 was fired
+
+Feb 0008: 1 pieces of lumber harvested
+Feb 0008: 1 lumberjacks mauled by bears
+Mar 0008: 2 pieces of lumber harvested
+Mar 0008: 1 lumberjacks mauled by bears
+Apr 0008: 4 new saplings sprouted
+Apr 0008: 1 lumberjacks mauled by bears
+May 0008: 1 pieces of lumber harvested
+Jun 0008: 1 new saplings sprouted
+Jul 0008: 2 pieces of lumber harvested
+Jul 0008: 3 new saplings sprouted
+Aug 0008: 4 pieces of lumber harvested
+Sep 0008: 1 pieces of lumber harvested
+Sep 0008: 1 new saplings sprouted
+Oct 0008: 1 pieces of lumber harvested
+Oct 0008: 3 new saplings sprouted
+Dec 0008: 1 new saplings sprouted
+
+0009: Forest has 13 saplings, 182 trees, 78 elder trees, 33 lumberjacks and 0 bears
+0009: For 3 maulings this year 3 bear killed
+0009: Given low productivity of 0.4 lumber per jack, 1 was fired
+
+Mar 0009: 1 pieces of lumber harvested
+Apr 0009: 1 pieces of lumber harvested
+Apr 0009: 2 new saplings sprouted
+May 0009: 1 pieces of lumber harvested
+May 0009: 1 new saplings sprouted
+Jul 0009: 3 pieces of lumber harvested
+Jul 0009: 1 new saplings sprouted
+Aug 0009: 2 pieces of lumber harvested
+Aug 0009: 1 new saplings sprouted
+Sep 0009: 3 pieces of lumber harvested
+Sep 0009: 1 new saplings sprouted
+Oct 0009: 3 pieces of lumber harvested
+Nov 0009: 2 pieces of lumber harvested
+Nov 0009: 1 new saplings sprouted
+Dec 0009: 3 pieces of lumber harvested
+Jan 0010: 6 pieces of lumber harvested
+Jan 0010: 1 new saplings sprouted
+
+0010: Forest has 8 saplings, 151 trees, 101 elder trees, 32 lumberjacks and 1 bears
+0010: 1 bear cub matures
+0010: Given low productivity of 0.8 lumber per jack, 1 was fired
+
+Feb 0010: 3 pieces of lumber harvested
+Feb 0010: 2 new saplings sprouted
+Feb 0010: 1 lumberjacks mauled by bears
+Mar 0010: 2 pieces of lumber harvested
+Apr 0010: 2 pieces of lumber harvested
+Jun 0010: 1 new saplings sprouted
+Jul 0010: 2 new saplings sprouted
+Aug 0010: 1 pieces of lumber harvested
+Sep 0010: 2 pieces of lumber harvested
+Sep 0010: 1 new saplings sprouted
+Dec 0010: 1 pieces of lumber harvested
+Dec 0010: 1 new saplings sprouted
+Jan 0011: 1 pieces of lumber harvested
+
+0011: Forest has 7 saplings, 100 trees, 150 elder trees, 30 lumberjacks and 0 bears
+0011: For 1 maulings this year 1 bear killed
+0011: Given low productivity of 0.4 lumber per jack, 1 was fired
+
+Feb 0011: 1 pieces of lumber harvested
+Mar 0011: 2 pieces of lumber harvested
+Apr 0011: 3 pieces of lumber harvested
+Apr 0011: 3 new saplings sprouted
+May 0011: 3 pieces of lumber harvested
+Jun 0011: 2 pieces of lumber harvested
+Jun 0011: 1 new saplings sprouted
+Jul 0011: 3 pieces of lumber harvested
+Jul 0011: 1 new saplings sprouted
+Aug 0011: 2 pieces of lumber harvested
+Aug 0011: 1 new saplings sprouted
+Sep 0011: 2 pieces of lumber harvested
+Sep 0011: 1 new saplings sprouted
+Oct 0011: 2 pieces of lumber harvested
+Nov 0011: 2 pieces of lumber harvested
+Nov 0011: 1 new saplings sprouted
+Dec 0011: 1 pieces of lumber harvested
+Dec 0011: 1 new saplings sprouted
+
+0012: Forest has 9 saplings, 72 trees, 170 elder trees, 29 lumberjacks and 1 bears
+0012: 1 bear cub matures
+0012: Given low productivity of 0.8 lumber per jack, 1 was fired
+
+Feb 0012: 4 pieces of lumber harvested
+Feb 0012: 1 new saplings sprouted
+Mar 0012: 2 pieces of lumber harvested
+Apr 0012: 1 pieces of lumber harvested
+Apr 0012: 1 new saplings sprouted
+May 0012: 2 pieces of lumber harvested
+May 0012: 1 new saplings sprouted
+Jun 0012: 1 pieces of lumber harvested
+Jul 0012: 1 new saplings sprouted
+Aug 0012: 1 new saplings sprouted
+Sep 0012: 4 pieces of lumber harvested
+Sep 0012: 1 new saplings sprouted
+Oct 0012: 1 pieces of lumber harvested
+Oct 0012: 1 new saplings sprouted
+Nov 0012: 2 pieces of lumber harvested
+Nov 0012: 1 new saplings sprouted
+Dec 0012: 1 pieces of lumber harvested
+Dec 0012: 2 new saplings sprouted
+
+0013: Forest has 10 saplings, 55 trees, 182 elder trees, 28 lumberjacks and 2 bears
+0013: 1 bear cub matures
+0013: Given low productivity of 0.6 lumber per jack, 1 was fired
+
+Mar 0013: 1 pieces of lumber harvested
+Mar 0013: 1 new saplings sprouted
+Mar 0013: 1 lumberjacks mauled by bears
+Apr 0013: 2 pieces of lumber harvested
+May 0013: 4 pieces of lumber harvested
+Jun 0013: 2 pieces of lumber harvested
+Jul 0013: 2 pieces of lumber harvested
+Jul 0013: 2 new saplings sprouted
+Aug 0013: 4 pieces of lumber harvested
+Sep 0013: 1 new saplings sprouted
+Oct 0013: 2 new saplings sprouted
+Nov 0013: 2 pieces of lumber harvested
+Nov 0013: 2 new saplings sprouted
+Dec 0013: 2 pieces of lumber harvested
+Jan 0014: 2 pieces of lumber harvested
+Jan 0014: 1 new saplings sprouted
+
+0014: Forest has 9 saplings, 51 trees, 185 elder trees, 26 lumberjacks and 1 bears
+0014: For 1 maulings this year 1 bear killed
+0014: Given low productivity of 0.8 lumber per jack, 1 was fired
+
+Feb 0014: 2 new saplings sprouted
+Mar 0014: 2 new saplings sprouted
+May 0014: 1 pieces of lumber harvested
+May 0014: 1 new saplings sprouted
+Jun 0014: 1 pieces of lumber harvested
+Jul 0014: 1 pieces of lumber harvested
+Jul 0014: 1 new saplings sprouted
+Aug 0014: 1 pieces of lumber harvested
+Sep 0014: 1 new saplings sprouted
+Nov 0014: 1 pieces of lumber harvested
+Dec 0014: 2 new saplings sprouted
+Jan 0015: 1 pieces of lumber harvested
+Jan 0015: 1 new saplings sprouted
+
+0015: Forest has 10 saplings, 49 trees, 190 elder trees, 25 lumberjacks and 2 bears
+0015: 1 bear cub matures
+0015: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Feb 0015: 2 pieces of lumber harvested
+Feb 0015: 1 new saplings sprouted
+Mar 0015: 1 pieces of lumber harvested
+Apr 0015: 1 pieces of lumber harvested
+Apr 0015: 3 new saplings sprouted
+May 0015: 1 lumberjacks mauled by bears
+Jun 0015: 2 pieces of lumber harvested
+Jun 0015: 1 new saplings sprouted
+Jul 0015: 2 pieces of lumber harvested
+Aug 0015: 1 pieces of lumber harvested
+Aug 0015: 2 new saplings sprouted
+Sep 0015: 1 new saplings sprouted
+Oct 0015: 1 pieces of lumber harvested
+Oct 0015: 1 new saplings sprouted
+Nov 0015: 1 new saplings sprouted
+Dec 0015: 1 pieces of lumber harvested
+Jan 0016: 3 pieces of lumber harvested
+Jan 0016: 3 new saplings sprouted
+
+0016: Forest has 13 saplings, 45 trees, 193 elder trees, 23 lumberjacks and 1 bears
+0016: For 1 maulings this year 1 bear killed
+0016: Given low productivity of 0.6 lumber per jack, 1 was fired
+
+Feb 0016: 2 pieces of lumber harvested
+Feb 0016: 1 new saplings sprouted
+Mar 0016: 1 new saplings sprouted
+Apr 0016: 1 new saplings sprouted
+Apr 0016: 1 lumberjacks mauled by bears
+Jun 0016: 1 new saplings sprouted
+Jul 0016: 1 pieces of lumber harvested
+Sep 0016: 1 pieces of lumber harvested
+Sep 0016: 2 new saplings sprouted
+Oct 0016: 1 pieces of lumber harvested
+Dec 0016: 1 new saplings sprouted
+Jan 0017: 1 new saplings sprouted
+
+0017: Forest has 8 saplings, 51 trees, 196 elder trees, 21 lumberjacks and 0 bears
+0017: For 1 maulings this year 1 bear killed
+0017: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Feb 0017: 1 new saplings sprouted
+Apr 0017: 2 new saplings sprouted
+Jun 0017: 1 pieces of lumber harvested
+Jul 0017: 1 new saplings sprouted
+Aug 0017: 1 new saplings sprouted
+Dec 0017: 1 new saplings sprouted
+
+0018: Forest has 6 saplings, 53 trees, 201 elder trees, 20 lumberjacks and 1 bears
+0018: 1 bear cub matures
+0018: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Apr 0018: 1 new saplings sprouted
+May 0018: 1 new saplings sprouted
+Aug 0018: 2 new saplings sprouted
+Aug 0018: 1 lumberjacks mauled by bears
+Oct 0018: 1 new saplings sprouted
+
+0019: Forest has 5 saplings, 54 trees, 206 elder trees, 18 lumberjacks and 0 bears
+0019: For 1 maulings this year 1 bear killed
+0019: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0019: 1 new saplings sprouted
+Apr 0019: 2 new saplings sprouted
+May 0019: 1 pieces of lumber harvested
+Jun 0019: 1 pieces of lumber harvested
+Aug 0019: 1 pieces of lumber harvested
+Nov 0019: 2 new saplings sprouted
+Dec 0019: 1 pieces of lumber harvested
+Jan 0020: 1 pieces of lumber harvested
+Jan 0020: 2 new saplings sprouted
+
+0020: Forest has 7 saplings, 50 trees, 210 elder trees, 17 lumberjacks and 1 bears
+0020: 1 bear cub matures
+0020: Given low productivity of 0.3 lumber per jack, 1 was fired
+
+Feb 0020: 1 pieces of lumber harvested
+Mar 0020: 2 pieces of lumber harvested
+May 0020: 1 new saplings sprouted
+Jun 0020: 1 new saplings sprouted
+Aug 0020: 1 new saplings sprouted
+
+0021: Forest has 3 saplings, 52 trees, 213 elder trees, 16 lumberjacks and 2 bears
+0021: 1 bear cub matures
+0021: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Mar 0021: 1 new saplings sprouted
+Apr 0021: 1 pieces of lumber harvested
+Apr 0021: 1 new saplings sprouted
+May 0021: 1 pieces of lumber harvested
+Jun 0021: 2 pieces of lumber harvested
+Jun 0021: 1 new saplings sprouted
+Jul 0021: 2 pieces of lumber harvested
+Aug 0021: 2 pieces of lumber harvested
+Oct 0021: 2 pieces of lumber harvested
+Oct 0021: 1 new saplings sprouted
+Nov 0021: 2 pieces of lumber harvested
+Dec 0021: 2 pieces of lumber harvested
+Dec 0021: 1 new saplings sprouted
+
+0022: Forest has 5 saplings, 48 trees, 212 elder trees, 15 lumberjacks and 3 bears
+0022: 1 bear cub matures
+0022: Given low productivity of 0.9 lumber per jack, 1 was fired
+
+Feb 0022: 1 pieces of lumber harvested
+Apr 0022: 1 pieces of lumber harvested
+May 0022: 1 new saplings sprouted
+Jun 0022: 1 pieces of lumber harvested
+Jun 0022: 2 new saplings sprouted
+Aug 0022: 2 new saplings sprouted
+Oct 0022: 1 new saplings sprouted
+Nov 0022: 1 pieces of lumber harvested
+Dec 0022: 1 pieces of lumber harvested
+Jan 0023: 1 new saplings sprouted
+
+0023: Forest has 7 saplings, 43 trees, 217 elder trees, 14 lumberjacks and 4 bears
+0023: 1 bear cub matures
+0023: Given low productivity of 0.3 lumber per jack, 1 was fired
+
+Aug 0023: 2 pieces of lumber harvested
+Sep 0023: 2 pieces of lumber harvested
+Oct 0023: 2 new saplings sprouted
+Nov 0023: 2 pieces of lumber harvested
+Dec 0023: 2 pieces of lumber harvested
+Jan 0024: 2 pieces of lumber harvested
+Jan 0024: 1 new saplings sprouted
+
+0024: Forest has 3 saplings, 47 trees, 215 elder trees, 13 lumberjacks and 5 bears
+0024: 1 bear cub matures
+0024: Given low productivity of 0.7 lumber per jack, 1 was fired
+
+Feb 0024: 2 pieces of lumber harvested
+Feb 0024: 1 new saplings sprouted
+Mar 0024: 1 new saplings sprouted
+Apr 0024: 1 new saplings sprouted
+Jul 0024: 1 lumberjacks mauled by bears
+Sep 0024: 2 pieces of lumber harvested
+Oct 0024: 2 pieces of lumber harvested
+Dec 0024: 1 new saplings sprouted
+Jan 0025: 1 new saplings sprouted
+
+0025: Forest has 5 saplings, 43 trees, 219 elder trees, 11 lumberjacks and 4 bears
+0025: For 1 maulings this year 1 bear killed
+0025: Given low productivity of 0.5 lumber per jack, 1 was fired
+
+Feb 0025: 1 pieces of lumber harvested
+Mar 0025: 3 pieces of lumber harvested
+Mar 0025: 2 new saplings sprouted
+Apr 0025: 2 pieces of lumber harvested
+May 0025: 2 new saplings sprouted
+Jun 0025: 2 new saplings sprouted
+Jul 0025: 4 pieces of lumber harvested
+Oct 0025: 1 new saplings sprouted
+
+0026: Forest has 7 saplings, 37 trees, 224 elder trees, 10 lumberjacks and 5 bears
+0026: 1 bear cub matures
+0026: Given low productivity of 0.9 lumber per jack, 1 was fired
+
+Feb 0026: 1 new saplings sprouted
+Jul 0026: 1 new saplings sprouted
+Oct 0026: 3 new saplings sprouted
+Dec 0026: 1 new saplings sprouted
+
+0027: Forest has 6 saplings, 40 trees, 228 elder trees, 9 lumberjacks and 6 bears
+0027: 1 bear cub matures
+0027: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0027: 1 new saplings sprouted
+Mar 0027: 1 lumberjacks mauled by bears
+Apr 0027: 1 new saplings sprouted
+May 0027: 1 new saplings sprouted
+Aug 0027: 1 new saplings sprouted
+Jan 0028: 2 new saplings sprouted
+
+0028: Forest has 6 saplings, 41 trees, 233 elder trees, 7 lumberjacks and 5 bears
+0028: For 1 maulings this year 1 bear killed
+0028: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0028: 1 new saplings sprouted
+Apr 0028: 1 new saplings sprouted
+Jul 0028: 1 new saplings sprouted
+Sep 0028: 1 new saplings sprouted
+
+0029: Forest has 4 saplings, 44 trees, 236 elder trees, 6 lumberjacks and 6 bears
+0029: 1 bear cub matures
+0029: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0029: 1 new saplings sprouted
+Apr 0029: 2 new saplings sprouted
+Jul 0029: 1 new saplings sprouted
+Aug 0029: 1 new saplings sprouted
+Sep 0029: 1 new saplings sprouted
+
+0030: Forest has 6 saplings, 42 trees, 242 elder trees, 5 lumberjacks and 7 bears
+0030: 1 bear cub matures
+0030: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Apr 0030: 2 new saplings sprouted
+Jun 0030: 1 new saplings sprouted
+Oct 0030: 1 new saplings sprouted
+Nov 0030: 1 new saplings sprouted
+Dec 0030: 1 new saplings sprouted
+
+0031: Forest has 6 saplings, 47 trees, 243 elder trees, 4 lumberjacks and 8 bears
+0031: 1 bear cub matures
+0031: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Apr 0031: 1 new saplings sprouted
+Aug 0031: 2 new saplings sprouted
+Oct 0031: 1 new saplings sprouted
+
+0032: Forest has 4 saplings, 49 trees, 247 elder trees, 3 lumberjacks and 9 bears
+0032: 1 bear cub matures
+0032: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Apr 0032: 1 new saplings sprouted
+Sep 0032: 1 new saplings sprouted
+Nov 0032: 1 new saplings sprouted
+
+0033: Forest has 3 saplings, 46 trees, 254 elder trees, 2 lumberjacks and 10 bears
+0033: 1 bear cub matures
+0033: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0033: 1 new saplings sprouted
+Apr 0033: 1 new saplings sprouted
+
+0034: Forest has 2 saplings, 46 trees, 257 elder trees, 1 lumberjacks and 11 bears
+0034: 1 bear cub matures
+0034: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0034: 1 new saplings sprouted
+Jun 0034: 1 new saplings sprouted
+Nov 0034: 1 new saplings sprouted
+
+0035: Forest has 3 saplings, 44 trees, 261 elder trees, 1 lumberjacks and 12 bears
+0035: 1 bear cub matures
+0035: The lone lumberjack harvested no trees this year
+
+Feb 0035: 1 new saplings sprouted
+Mar 0035: 1 new saplings sprouted
+
+0036: Forest has 2 saplings, 40 trees, 268 elder trees, 1 lumberjacks and 13 bears
+0036: 1 bear cub matures
+0036: The lone lumberjack harvested no trees this year
+
+Jul 0036: 1 new saplings sprouted
+Oct 0036: 1 new saplings sprouted
+
+0037: Forest has 2 saplings, 36 trees, 274 elder trees, 1 lumberjacks and 14 bears
+0037: 1 bear cub matures
+0037: The lone lumberjack harvested no trees this year
+
+Mar 0037: 1 new saplings sprouted
+Jul 0037: 1 new saplings sprouted
+
+0038: Forest has 2 saplings, 32 trees, 280 elder trees, 1 lumberjacks and 15 bears
+0038: 1 bear cub matures
+0038: The lone lumberjack harvested no trees this year
+
+Feb 0038: 1 new saplings sprouted
+Jul 0038: 1 new saplings sprouted
+
+0039: Forest has 2 saplings, 30 trees, 284 elder trees, 1 lumberjacks and 16 bears
+0039: 1 bear cub matures
+0039: The lone lumberjack harvested no trees this year
+
+
+0040: Forest has 0 saplings, 26 trees, 290 elder trees, 1 lumberjacks and 17 bears
+0040: 1 bear cub matures
+0040: The lone lumberjack harvested no trees this year
+
+May 0040: 1 new saplings sprouted
+
+0041: Forest has 1 saplings, 20 trees, 296 elder trees, 1 lumberjacks and 18 bears
+0041: 1 bear cub matures
+0041: The lone lumberjack harvested no trees this year
+
+Feb 0041: 1 lumberjacks mauled by bears
+Apr 0041: 1 lumberjacks mauled by bears
+Jun 0041: 1 new saplings sprouted
+Nov 0041: 1 lumberjacks mauled by bears
+
+0042: Forest has 1 saplings, 17 trees, 300 elder trees, 1 lumberjacks and 15 bears
+0042: For 3 maulings this year 3 bear killed
+0042: The lone lumberjack harvested no trees this year
+
+Aug 0042: 1 new saplings sprouted
+Oct 0042: 1 new saplings sprouted
+
+0043: Forest has 2 saplings, 15 trees, 303 elder trees, 1 lumberjacks and 16 bears
+0043: 1 bear cub matures
+0043: The lone lumberjack harvested no trees this year
+
+
+0044: Forest has 0 saplings, 15 trees, 305 elder trees, 1 lumberjacks and 17 bears
+0044: 1 bear cub matures
+0044: The lone lumberjack harvested no trees this year
+
+Apr 0044: 1 new saplings sprouted
+
+0045: Forest has 1 saplings, 12 trees, 308 elder trees, 1 lumberjacks and 18 bears
+0045: 1 bear cub matures
+0045: The lone lumberjack harvested no trees this year
+
+Dec 0045: 1 new saplings sprouted
+
+0046: Forest has 1 saplings, 11 trees, 310 elder trees, 1 lumberjacks and 19 bears
+0046: 1 bear cub matures
+0046: The lone lumberjack harvested no trees this year
+
+
+0047: Forest has 0 saplings, 10 trees, 312 elder trees, 1 lumberjacks and 20 bears
+0047: 1 bear cub matures
+0047: The lone lumberjack harvested no trees this year
+
+Jan 0048: 1 new saplings sprouted
+
+0048: Forest has 1 saplings, 8 trees, 314 elder trees, 1 lumberjacks and 21 bears
+0048: 1 bear cub matures
+0048: The lone lumberjack harvested no trees this year
+
+
+0049: Forest has 0 saplings, 7 trees, 316 elder trees, 1 lumberjacks and 22 bears
+0049: 1 bear cub matures
+0049: The lone lumberjack harvested no trees this year
+
+Sep 0049: 1 new saplings sprouted
+
+0050: Forest has 1 saplings, 7 trees, 316 elder trees, 1 lumberjacks and 23 bears
+0050: 1 bear cub matures
+0050: The lone lumberjack harvested no trees this year
+
+Jan 0051: 1 new saplings sprouted
+
+0051: Forest has 1 saplings, 7 trees, 317 elder trees, 1 lumberjacks and 24 bears
+0051: 1 bear cub matures
+0051: The lone lumberjack harvested no trees this year
+
+
+0052: Forest has 0 saplings, 7 trees, 318 elder trees, 1 lumberjacks and 25 bears
+0052: 1 bear cub matures
+0052: The lone lumberjack harvested no trees this year
+
+
+0053: Forest has 0 saplings, 5 trees, 320 elder trees, 1 lumberjacks and 26 bears
+0053: 1 bear cub matures
+0053: The lone lumberjack harvested no trees this year
+
+
+0054: Forest has 0 saplings, 5 trees, 320 elder trees, 1 lumberjacks and 27 bears
+0054: 1 bear cub matures
+0054: The lone lumberjack harvested no trees this year
+
+
+0055: Forest has 0 saplings, 4 trees, 321 elder trees, 1 lumberjacks and 28 bears
+0055: 1 bear cub matures
+0055: The lone lumberjack harvested no trees this year
+
+
+0056: Forest has 0 saplings, 3 trees, 322 elder trees, 1 lumberjacks and 29 bears
+0056: 1 bear cub matures
+0056: The lone lumberjack harvested no trees this year
+
+
+0057: Forest has 0 saplings, 3 trees, 322 elder trees, 1 lumberjacks and 30 bears
+0057: 1 bear cub matures
+0057: The lone lumberjack harvested no trees this year
+
+
+0058: Forest has 0 saplings, 2 trees, 323 elder trees, 1 lumberjacks and 31 bears
+0058: 1 bear cub matures
+0058: The lone lumberjack harvested no trees this year
+
+Jul 0058: 1 lumberjacks mauled by bears
+Aug 0058: 1 lumberjacks mauled by bears
+
+0059: Forest has 0 saplings, 2 trees, 323 elder trees, 1 lumberjacks and 29 bears
+0059: For 2 maulings this year 2 bear killed
+0059: The lone lumberjack harvested no trees this year
+
+
+0060: Forest has 0 saplings, 1 trees, 324 elder trees, 1 lumberjacks and 30 bears
+0060: 1 bear cub matures
+0060: The lone lumberjack harvested no trees this year
+
+
+0061: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 31 bears
+0061: 1 bear cub matures
+0061: The lone lumberjack harvested no trees this year
+
+
+0062: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 32 bears
+0062: 1 bear cub matures
+0062: The lone lumberjack harvested no trees this year
+
+
+0063: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 33 bears
+0063: 1 bear cub matures
+0063: The lone lumberjack harvested no trees this year
+
+
+0064: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 34 bears
+0064: 1 bear cub matures
+0064: The lone lumberjack harvested no trees this year
+
+
+0065: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 35 bears
+0065: 1 bear cub matures
+0065: The lone lumberjack harvested no trees this year
+
+
+0066: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 36 bears
+0066: 1 bear cub matures
+0066: The lone lumberjack harvested no trees this year
+
+
+0067: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 37 bears
+0067: 1 bear cub matures
+0067: The lone lumberjack harvested no trees this year
+
+
+0068: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 38 bears
+0068: 1 bear cub matures
+0068: The lone lumberjack harvested no trees this year
+
+
+0069: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 39 bears
+0069: 1 bear cub matures
+0069: The lone lumberjack harvested no trees this year
+
+
+0070: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 40 bears
+0070: 1 bear cub matures
+0070: The lone lumberjack harvested no trees this year
+
+
+0071: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 41 bears
+0071: 1 bear cub matures
+0071: The lone lumberjack harvested no trees this year
+
+
+0072: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 42 bears
+0072: 1 bear cub matures
+0072: The lone lumberjack harvested no trees this year
+
+
+0073: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 43 bears
+0073: 1 bear cub matures
+0073: The lone lumberjack harvested no trees this year
+
+
+0074: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 44 bears
+0074: 1 bear cub matures
+0074: The lone lumberjack harvested no trees this year
+
+
+0075: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 45 bears
+0075: 1 bear cub matures
+0075: The lone lumberjack harvested no trees this year
+
+
+0076: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 46 bears
+0076: 1 bear cub matures
+0076: The lone lumberjack harvested no trees this year
+
+
+0077: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 47 bears
+0077: 1 bear cub matures
+0077: The lone lumberjack harvested no trees this year
+
+
+0078: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 48 bears
+0078: 1 bear cub matures
+0078: The lone lumberjack harvested no trees this year
+
+
+0079: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 49 bears
+0079: 1 bear cub matures
+0079: The lone lumberjack harvested no trees this year
+
+
+0080: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 50 bears
+0080: 1 bear cub matures
+0080: The lone lumberjack harvested no trees this year
+
+
+0081: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 51 bears
+0081: 1 bear cub matures
+0081: The lone lumberjack harvested no trees this year
+
+
+0082: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 52 bears
+0082: 1 bear cub matures
+0082: The lone lumberjack harvested no trees this year
+
+
+0083: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 53 bears
+0083: 1 bear cub matures
+0083: The lone lumberjack harvested no trees this year
+
+
+0084: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 54 bears
+0084: 1 bear cub matures
+0084: The lone lumberjack harvested no trees this year
+
+
+0085: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 55 bears
+0085: 1 bear cub matures
+0085: The lone lumberjack harvested no trees this year
+
+
+0086: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 56 bears
+0086: 1 bear cub matures
+0086: The lone lumberjack harvested no trees this year
+
+
+0087: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 57 bears
+0087: 1 bear cub matures
+0087: The lone lumberjack harvested no trees this year
+
+
+0088: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 58 bears
+0088: 1 bear cub matures
+0088: The lone lumberjack harvested no trees this year
+
+
+0089: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 59 bears
+0089: 1 bear cub matures
+0089: The lone lumberjack harvested no trees this year
+
+
+0090: Forest has 0 saplings, 0 trees, 325 elder trees, 1 lumberjacks and 60 bears
+0090: 1 bear cub matures
+0090: The lone lumberjack harvested no trees this year
+
+Nov 0090: 2 pieces of lumber harvested
+Nov 0090: 1 lumberjacks mauled by bears
+Dec 0090: 2 pieces of lumber harvested
+
+0091: Forest has 0 saplings, 0 trees, 323 elder trees, 5 lumberjacks and 59 bears
+0091: For 1 maulings this year 1 bear killed
+0091: Given productivity of 4.0 lumber per jack, 4 were hired
+
+Feb 0091: 2 pieces of lumber harvested
+Feb 0091: 2 lumberjacks mauled by bears
+Mar 0091: 1 lumberjacks mauled by bears
+Apr 0091: 2 pieces of lumber harvested
+May 0091: 1 lumberjacks mauled by bears
+Oct 0091: 1 new saplings sprouted
+
+0092: Forest has 1 saplings, 0 trees, 321 elder trees, 5 lumberjacks and 55 bears
+0092: For 4 maulings this year 4 bear killed
+0092: Given productivity of 4.0 lumber per jack, 4 were hired
+
+Feb 0092: 4 pieces of lumber harvested
+Mar 0092: 2 pieces of lumber harvested
+Mar 0092: 1 lumberjacks mauled by bears
+Apr 0092: 2 pieces of lumber harvested
+May 0092: 2 pieces of lumber harvested
+May 0092: 1 new saplings sprouted
+Jun 0092: 2 pieces of lumber harvested
+Jul 0092: 2 pieces of lumber harvested
+Aug 0092: 3 new saplings sprouted
+Aug 0092: 1 lumberjacks mauled by bears
+Oct 0092: 1 new saplings sprouted
+Oct 0092: 1 lumberjacks mauled by bears
+Nov 0092: 2 pieces of lumber harvested
+Nov 0092: 1 lumberjacks mauled by bears
+
+0093: Forest has 5 saplings, 1 trees, 313 elder trees, 17 lumberjacks and 51 bears
+0093: For 4 maulings this year 4 bear killed
+0093: Given productivity of 16.0 lumber per jack, 16 were hired
+
+Feb 0093: 6 pieces of lumber harvested
+Feb 0093: 5 lumberjacks mauled by bears
+Mar 0093: 8 pieces of lumber harvested
+Apr 0093: 4 pieces of lumber harvested
+Apr 0093: 1 lumberjacks mauled by bears
+May 0093: 4 pieces of lumber harvested
+May 0093: 2 new saplings sprouted
+May 0093: 1 lumberjacks mauled by bears
+Jun 0093: 4 pieces of lumber harvested
+Jul 0093: 4 pieces of lumber harvested
+Jul 0093: 2 lumberjacks mauled by bears
+Aug 0093: 2 pieces of lumber harvested
+Aug 0093: 1 new saplings sprouted
+Aug 0093: 2 lumberjacks mauled by bears
+Sep 0093: 2 pieces of lumber harvested
+Sep 0093: 1 new saplings sprouted
+Oct 0093: 2 pieces of lumber harvested
+Oct 0093: 3 new saplings sprouted
+Oct 0093: 1 lumberjacks mauled by bears
+Dec 0093: 2 pieces of lumber harvested
+Dec 0093: 2 new saplings sprouted
+Jan 0094: 2 pieces of lumber harvested
+
+0094: Forest has 9 saplings, 6 trees, 293 elder trees, 13 lumberjacks and 39 bears
+0094: For 12 maulings this year 12 bear killed
+0094: Given productivity of 8.0 lumber per jack, 8 were hired
+
+Feb 0094: 10 pieces of lumber harvested
+Feb 0094: 2 lumberjacks mauled by bears
+Mar 0094: 8 pieces of lumber harvested
+Apr 0094: 8 pieces of lumber harvested
+May 0094: 6 pieces of lumber harvested
+May 0094: 2 new saplings sprouted
+Jun 0094: 6 pieces of lumber harvested
+Jun 0094: 1 new saplings sprouted
+Jul 0094: 6 pieces of lumber harvested
+Aug 0094: 5 pieces of lumber harvested
+Sep 0094: 2 pieces of lumber harvested
+Sep 0094: 3 new saplings sprouted
+Oct 0094: 3 pieces of lumber harvested
+Nov 0094: 4 pieces of lumber harvested
+Nov 0094: 2 new saplings sprouted
+Nov 0094: 1 lumberjacks mauled by bears
+Dec 0094: 5 pieces of lumber harvested
+Jan 0095: 4 pieces of lumber harvested
+Jan 0095: 2 lumberjacks mauled by bears
+
+0095: Forest has 8 saplings, 12 trees, 261 elder trees, 16 lumberjacks and 34 bears
+0095: For 5 maulings this year 5 bear killed
+0095: Given productivity of 8.4 lumber per jack, 8 were hired
+
+Feb 0095: 6 pieces of lumber harvested
+Feb 0095: 2 new saplings sprouted
+Feb 0095: 1 lumberjacks mauled by bears
+Mar 0095: 4 pieces of lumber harvested
+Mar 0095: 2 new saplings sprouted
+Apr 0095: 4 pieces of lumber harvested
+Apr 0095: 1 new saplings sprouted
+Apr 0095: 2 lumberjacks mauled by bears
+May 0095: 6 pieces of lumber harvested
+Jun 0095: 7 pieces of lumber harvested
+Jun 0095: 1 new saplings sprouted
+Jul 0095: 3 pieces of lumber harvested
+Jul 0095: 2 new saplings sprouted
+Aug 0095: 4 pieces of lumber harvested
+Aug 0095: 2 new saplings sprouted
+Sep 0095: 8 pieces of lumber harvested
+Sep 0095: 1 new saplings sprouted
+Oct 0095: 4 pieces of lumber harvested
+Nov 0095: 4 pieces of lumber harvested
+Dec 0095: 4 pieces of lumber harvested
+Dec 0095: 2 new saplings sprouted
+Dec 0095: 1 lumberjacks mauled by bears
+Jan 0096: 2 pieces of lumber harvested
+
+0096: Forest has 13 saplings, 16 trees, 235 elder trees, 16 lumberjacks and 30 bears
+0096: For 4 maulings this year 4 bear killed
+0096: Given productivity of 4.7 lumber per jack, 4 were hired
+
+Feb 0096: 1 new saplings sprouted
+Feb 0096: 4 lumberjacks mauled by bears
+Mar 0096: 1 pieces of lumber harvested
+Mar 0096: 3 new saplings sprouted
+Mar 0096: 2 lumberjacks mauled by bears
+Apr 0096: 1 new saplings sprouted
+May 0096: 2 new saplings sprouted
+Jul 0096: 1 new saplings sprouted
+Aug 0096: 3 pieces of lumber harvested
+Sep 0096: 2 pieces of lumber harvested
+Oct 0096: 2 pieces of lumber harvested
+Oct 0096: 1 new saplings sprouted
+Dec 0096: 2 pieces of lumber harvested
+Dec 0096: 1 new saplings sprouted
+Jan 0097: 1 new saplings sprouted
+
+0097: Forest has 11 saplings, 27 trees, 231 elder trees, 11 lumberjacks and 24 bears
+0097: For 6 maulings this year 6 bear killed
+0097: Given productivity of 1.0 lumber per jack, 1 were hired
+
+Feb 0097: 2 pieces of lumber harvested
+Mar 0097: 2 pieces of lumber harvested
+Mar 0097: 1 new saplings sprouted
+Apr 0097: 1 pieces of lumber harvested
+Apr 0097: 1 lumberjacks mauled by bears
+May 0097: 2 pieces of lumber harvested
+Jun 0097: 2 pieces of lumber harvested
+Jul 0097: 2 pieces of lumber harvested
+Jul 0097: 1 new saplings sprouted
+Aug 0097: 1 pieces of lumber harvested
+Aug 0097: 1 new saplings sprouted
+Sep 0097: 1 new saplings sprouted
+Sep 0097: 1 lumberjacks mauled by bears
+Nov 0097: 1 new saplings sprouted
+Dec 0097: 1 new saplings sprouted
+Jan 0098: 1 pieces of lumber harvested
+
+0098: Forest has 6 saplings, 33 trees, 227 elder trees, 10 lumberjacks and 22 bears
+0098: For 2 maulings this year 2 bear killed
+0098: Given productivity of 1.4 lumber per jack, 1 were hired
+
+Feb 0098: 1 new saplings sprouted
+Mar 0098: 2 pieces of lumber harvested
+Apr 0098: 1 new saplings sprouted
+May 0098: 2 pieces of lumber harvested
+May 0098: 2 new saplings sprouted
+Jul 0098: 1 new saplings sprouted
+Aug 0098: 2 new saplings sprouted
+Aug 0098: 1 lumberjacks mauled by bears
+Sep 0098: 2 new saplings sprouted
+Oct 0098: 1 new saplings sprouted
+Nov 0098: 1 new saplings sprouted
+Dec 0098: 1 pieces of lumber harvested
+
+0099: Forest has 11 saplings, 38 trees, 225 elder trees, 8 lumberjacks and 21 bears
+0099: For 1 maulings this year 1 bear killed
+0099: Given low productivity of 0.6 lumber per jack, 1 was fired
+
+Aug 0099: 1 new saplings sprouted
+Sep 0099: 2 new saplings sprouted
+Nov 0099: 1 new saplings sprouted
+
+0100: Forest has 4 saplings, 49 trees, 225 elder trees, 7 lumberjacks and 22 bears
+0100: 1 bear cub matures
+0100: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0100: 1 pieces of lumber harvested
+Mar 0100: 1 pieces of lumber harvested
+Apr 0100: 2 pieces of lumber harvested
+May 0100: 1 new saplings sprouted
+Aug 0100: 1 new saplings sprouted
+Sep 0100: 1 new saplings sprouted
+Oct 0100: 1 new saplings sprouted
+Dec 0100: 1 new saplings sprouted
+
+0101: Forest has 5 saplings, 51 trees, 224 elder trees, 6 lumberjacks and 23 bears
+0101: 1 bear cub matures
+0101: Given low productivity of 0.6 lumber per jack, 1 was fired
+
+Apr 0101: 1 new saplings sprouted
+Jun 0101: 1 new saplings sprouted
+Dec 0101: 2 new saplings sprouted
+
+0102: Forest has 4 saplings, 55 trees, 225 elder trees, 5 lumberjacks and 24 bears
+0102: 1 bear cub matures
+0102: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0102: 1 new saplings sprouted
+Jul 0102: 1 new saplings sprouted
+Aug 0102: 1 new saplings sprouted
+Jan 0103: 1 new saplings sprouted
+
+0103: Forest has 4 saplings, 54 trees, 230 elder trees, 4 lumberjacks and 25 bears
+0103: 1 bear cub matures
+0103: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0103: 1 new saplings sprouted
+Mar 0103: 1 new saplings sprouted
+Sep 0103: 1 new saplings sprouted
+Dec 0103: 1 pieces of lumber harvested
+Dec 0103: 1 new saplings sprouted
+Jan 0104: 1 pieces of lumber harvested
+Jan 0104: 1 new saplings sprouted
+
+0104: Forest has 5 saplings, 51 trees, 235 elder trees, 3 lumberjacks and 26 bears
+0104: 1 bear cub matures
+0104: Given low productivity of 0.5 lumber per jack, 1 was fired
+
+Mar 0104: 1 new saplings sprouted
+Apr 0104: 1 new saplings sprouted
+May 0104: 1 lumberjacks mauled by bears
+Jun 0104: 1 new saplings sprouted
+Nov 0104: 1 new saplings sprouted
+Dec 0104: 2 new saplings sprouted
+
+0105: Forest has 6 saplings, 53 trees, 238 elder trees, 1 lumberjacks and 25 bears
+0105: For 1 maulings this year 1 bear killed
+0105: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0105: 1 new saplings sprouted
+Jul 0105: 1 new saplings sprouted
+
+0106: Forest has 2 saplings, 49 trees, 248 elder trees, 1 lumberjacks and 26 bears
+0106: 1 bear cub matures
+0106: The lone lumberjack harvested no trees this year
+
+Feb 0106: 1 new saplings sprouted
+Sep 0106: 1 new saplings sprouted
+Jan 0107: 2 new saplings sprouted
+
+0107: Forest has 4 saplings, 43 trees, 256 elder trees, 1 lumberjacks and 27 bears
+0107: 1 bear cub matures
+0107: The lone lumberjack harvested no trees this year
+
+
+0108: Forest has 0 saplings, 42 trees, 261 elder trees, 1 lumberjacks and 28 bears
+0108: 1 bear cub matures
+0108: The lone lumberjack harvested no trees this year
+
+Mar 0108: 1 new saplings sprouted
+May 0108: 1 new saplings sprouted
+Aug 0108: 1 new saplings sprouted
+Nov 0108: 1 new saplings sprouted
+
+0109: Forest has 4 saplings, 32 trees, 271 elder trees, 1 lumberjacks and 29 bears
+0109: 1 bear cub matures
+0109: The lone lumberjack harvested no trees this year
+
+
+0110: Forest has 0 saplings, 33 trees, 274 elder trees, 1 lumberjacks and 30 bears
+0110: 1 bear cub matures
+0110: The lone lumberjack harvested no trees this year
+
+Dec 0110: 1 new saplings sprouted
+Jan 0111: 1 new saplings sprouted
+
+0111: Forest has 2 saplings, 28 trees, 279 elder trees, 1 lumberjacks and 31 bears
+0111: 1 bear cub matures
+0111: The lone lumberjack harvested no trees this year
+
+Jun 0111: 1 new saplings sprouted
+
+0112: Forest has 1 saplings, 27 trees, 282 elder trees, 1 lumberjacks and 32 bears
+0112: 1 bear cub matures
+0112: The lone lumberjack harvested no trees this year
+
+Jul 0112: 1 new saplings sprouted
+
+0113: Forest has 1 saplings, 24 trees, 286 elder trees, 1 lumberjacks and 33 bears
+0113: 1 bear cub matures
+0113: The lone lumberjack harvested no trees this year
+
+Feb 0113: 1 new saplings sprouted
+
+0114: Forest has 1 saplings, 20 trees, 291 elder trees, 1 lumberjacks and 34 bears
+0114: 1 bear cub matures
+0114: The lone lumberjack harvested no trees this year
+
+Apr 0114: 1 new saplings sprouted
+Sep 0114: 1 new saplings sprouted
+
+0115: Forest has 2 saplings, 15 trees, 297 elder trees, 1 lumberjacks and 35 bears
+0115: 1 bear cub matures
+0115: The lone lumberjack harvested no trees this year
+
+
+0116: Forest has 0 saplings, 15 trees, 299 elder trees, 1 lumberjacks and 36 bears
+0116: 1 bear cub matures
+0116: The lone lumberjack harvested no trees this year
+
+Mar 0116: 1 new saplings sprouted
+
+0117: Forest has 1 saplings, 11 trees, 303 elder trees, 1 lumberjacks and 37 bears
+0117: 1 bear cub matures
+0117: The lone lumberjack harvested no trees this year
+
+Apr 0117: 1 new saplings sprouted
+Aug 0117: 1 new saplings sprouted
+
+0118: Forest has 2 saplings, 12 trees, 303 elder trees, 1 lumberjacks and 38 bears
+0118: 1 bear cub matures
+0118: The lone lumberjack harvested no trees this year
+
+Apr 0118: 1 new saplings sprouted
+Aug 0118: 2 pieces of lumber harvested
+Aug 0118: 1 lumberjacks mauled by bears
+Sep 0118: 2 pieces of lumber harvested
+Nov 0118: 2 new saplings sprouted
+Dec 0118: 2 pieces of lumber harvested
+Jan 0119: 2 pieces of lumber harvested
+
+0119: Forest has 3 saplings, 10 trees, 303 elder trees, 9 lumberjacks and 37 bears
+0119: For 1 maulings this year 1 bear killed
+0119: Given productivity of 8.0 lumber per jack, 8 were hired
+
+Feb 0119: 6 pieces of lumber harvested
+Feb 0119: 2 lumberjacks mauled by bears
+Mar 0119: 4 pieces of lumber harvested
+Mar 0119: 2 lumberjacks mauled by bears
+Apr 0119: 2 pieces of lumber harvested
+May 0119: 2 pieces of lumber harvested
+May 0119: 1 new saplings sprouted
+Jun 0119: 4 pieces of lumber harvested
+Jul 0119: 1 lumberjacks mauled by bears
+Aug 0119: 2 pieces of lumber harvested
+Aug 0119: 2 new saplings sprouted
+Sep 0119: 4 pieces of lumber harvested
+
+0120: Forest has 3 saplings, 13 trees, 291 elder trees, 10 lumberjacks and 32 bears
+0120: For 5 maulings this year 5 bear killed
+0120: Given productivity of 6.0 lumber per jack, 6 were hired
+
+Feb 0120: 4 pieces of lumber harvested
+Feb 0120: 2 new saplings sprouted
+Mar 0120: 4 pieces of lumber harvested
+Mar 0120: 1 new saplings sprouted
+Apr 0120: 4 pieces of lumber harvested
+May 0120: 5 pieces of lumber harvested
+May 0120: 1 lumberjacks mauled by bears
+Jun 0120: 4 pieces of lumber harvested
+Jul 0120: 4 pieces of lumber harvested
+Jul 0120: 1 lumberjacks mauled by bears
+Aug 0120: 5 pieces of lumber harvested
+Sep 0120: 1 new saplings sprouted
+Oct 0120: 2 pieces of lumber harvested
+Oct 0120: 2 new saplings sprouted
+Nov 0120: 4 pieces of lumber harvested
+Nov 0120: 1 lumberjacks mauled by bears
+Dec 0120: 2 pieces of lumber harvested
+Dec 0120: 1 new saplings sprouted
+Dec 0120: 1 lumberjacks mauled by bears
+Jan 0121: 2 new saplings sprouted
+
+0121: Forest has 9 saplings, 12 trees, 275 elder trees, 12 lumberjacks and 28 bears
+0121: For 4 maulings this year 4 bear killed
+0121: Given productivity of 6.3 lumber per jack, 6 were hired
+
+Feb 0121: 4 pieces of lumber harvested
+Feb 0121: 1 lumberjacks mauled by bears
+Mar 0121: 2 pieces of lumber harvested
+Mar 0121: 1 new saplings sprouted
+Mar 0121: 2 lumberjacks mauled by bears
+Apr 0121: 2 pieces of lumber harvested
+Apr 0121: 1 lumberjacks mauled by bears
+May 0121: 2 pieces of lumber harvested
+Jun 0121: 2 pieces of lumber harvested
+Jul 0121: 2 pieces of lumber harvested
+Jul 0121: 1 new saplings sprouted
+Jul 0121: 1 lumberjacks mauled by bears
+Aug 0121: 2 pieces of lumber harvested
+Aug 0121: 2 new saplings sprouted
+Sep 0121: 2 pieces of lumber harvested
+Sep 0121: 1 new saplings sprouted
+Oct 0121: 2 pieces of lumber harvested
+Oct 0121: 1 lumberjacks mauled by bears
+Nov 0121: 2 pieces of lumber harvested
+Nov 0121: 2 new saplings sprouted
+Dec 0121: 3 pieces of lumber harvested
+Dec 0121: 1 new saplings sprouted
+Jan 0122: 2 pieces of lumber harvested
+
+0122: Forest has 8 saplings, 19 trees, 263 elder trees, 10 lumberjacks and 22 bears
+0122: For 6 maulings this year 6 bear killed
+0122: Given productivity of 4.5 lumber per jack, 4 were hired
+
+Feb 0122: 5 pieces of lumber harvested
+Feb 0122: 1 new saplings sprouted
+Mar 0122: 7 pieces of lumber harvested
+Mar 0122: 1 new saplings sprouted
+Mar 0122: 1 lumberjacks mauled by bears
+Apr 0122: 2 pieces of lumber harvested
+Apr 0122: 1 new saplings sprouted
+Apr 0122: 1 lumberjacks mauled by bears
+May 0122: 4 pieces of lumber harvested
+May 0122: 1 new saplings sprouted
+Jun 0122: 2 pieces of lumber harvested
+Jul 0122: 4 pieces of lumber harvested
+Jul 0122: 1 new saplings sprouted
+Sep 0122: 3 new saplings sprouted
+Oct 0122: 2 pieces of lumber harvested
+Nov 0122: 2 pieces of lumber harvested
+Nov 0122: 1 new saplings sprouted
+Dec 0122: 2 new saplings sprouted
+Jan 0123: 3 pieces of lumber harvested
+Jan 0123: 2 new saplings sprouted
+
+0123: Forest has 13 saplings, 21 trees, 251 elder trees, 11 lumberjacks and 20 bears
+0123: For 2 maulings this year 2 bear killed
+0123: Given productivity of 3.9 lumber per jack, 3 were hired
+
+Feb 0123: 2 pieces of lumber harvested
+Feb 0123: 2 lumberjacks mauled by bears
+Mar 0123: 4 pieces of lumber harvested
+Apr 0123: 1 pieces of lumber harvested
+Apr 0123: 1 new saplings sprouted
+May 0123: 2 pieces of lumber harvested
+May 0123: 1 new saplings sprouted
+Jun 0123: 3 pieces of lumber harvested
+Jun 0123: 1 new saplings sprouted
+Jul 0123: 3 pieces of lumber harvested
+Jul 0123: 1 lumberjacks mauled by bears
+Aug 0123: 1 pieces of lumber harvested
+Sep 0123: 4 pieces of lumber harvested
+Oct 0123: 1 pieces of lumber harvested
+Oct 0123: 1 new saplings sprouted
+Nov 0123: 1 pieces of lumber harvested
+Nov 0123: 1 new saplings sprouted
+Nov 0123: 1 lumberjacks mauled by bears
+Dec 0123: 1 new saplings sprouted
+Jan 0124: 2 pieces of lumber harvested
+
+0124: Forest has 6 saplings, 23 trees, 245 elder trees, 10 lumberjacks and 16 bears
+0124: For 4 maulings this year 4 bear killed
+0124: Given productivity of 3.4 lumber per jack, 3 were hired
+
+Feb 0124: 3 pieces of lumber harvested
+Feb 0124: 2 new saplings sprouted
+Mar 0124: 3 pieces of lumber harvested
+Mar 0124: 2 new saplings sprouted
+Apr 0124: 4 pieces of lumber harvested
+Apr 0124: 2 new saplings sprouted
+May 0124: 4 pieces of lumber harvested
+Jun 0124: 3 pieces of lumber harvested
+Jul 0124: 3 pieces of lumber harvested
+Aug 0124: 3 pieces of lumber harvested
+Sep 0124: 2 pieces of lumber harvested
+Sep 0124: 2 new saplings sprouted
+Oct 0124: 1 new saplings sprouted
+Nov 0124: 4 pieces of lumber harvested
+Nov 0124: 1 new saplings sprouted
+Dec 0124: 3 pieces of lumber harvested
+Jan 0125: 4 pieces of lumber harvested
+Jan 0125: 3 new saplings sprouted
+
+0125: Forest has 13 saplings, 20 trees, 232 elder trees, 13 lumberjacks and 17 bears
+0125: 1 bear cub matures
+0125: Given productivity of 3.6 lumber per jack, 3 were hired
+
+Feb 0125: 5 pieces of lumber harvested
+Mar 0125: 4 pieces of lumber harvested
+Mar 0125: 1 new saplings sprouted
+Apr 0125: 3 pieces of lumber harvested
+May 0125: 1 pieces of lumber harvested
+May 0125: 1 new saplings sprouted
+May 0125: 1 lumberjacks mauled by bears
+Jun 0125: 2 new saplings sprouted
+Jul 0125: 1 new saplings sprouted
+Aug 0125: 2 new saplings sprouted
+Sep 0125: 2 pieces of lumber harvested
+Oct 0125: 4 pieces of lumber harvested
+Nov 0125: 1 pieces of lumber harvested
+Nov 0125: 2 new saplings sprouted
+Nov 0125: 1 lumberjacks mauled by bears
+Dec 0125: 2 pieces of lumber harvested
+Jan 0126: 4 pieces of lumber harvested
+
+0126: Forest has 9 saplings, 27 trees, 222 elder trees, 13 lumberjacks and 15 bears
+0126: For 2 maulings this year 2 bear killed
+0126: Given productivity of 2.4 lumber per jack, 2 were hired
+
+Feb 0126: 4 pieces of lumber harvested
+Mar 0126: 4 pieces of lumber harvested
+Mar 0126: 1 new saplings sprouted
+Apr 0126: 5 pieces of lumber harvested
+Apr 0126: 1 new saplings sprouted
+May 0126: 1 new saplings sprouted
+Jun 0126: 2 pieces of lumber harvested
+Jun 0126: 1 new saplings sprouted
+Jul 0126: 5 pieces of lumber harvested
+Jul 0126: 1 new saplings sprouted
+Jul 0126: 1 lumberjacks mauled by bears
+Aug 0126: 2 pieces of lumber harvested
+Sep 0126: 3 pieces of lumber harvested
+Sep 0126: 1 new saplings sprouted
+Oct 0126: 1 new saplings sprouted
+Oct 0126: 1 lumberjacks mauled by bears
+Nov 0126: 1 pieces of lumber harvested
+Nov 0126: 2 new saplings sprouted
+Dec 0126: 2 new saplings sprouted
+Jan 0127: 1 new saplings sprouted
+
+0127: Forest has 12 saplings, 32 trees, 211 elder trees, 13 lumberjacks and 13 bears
+0127: For 2 maulings this year 2 bear killed
+0127: Given productivity of 2.4 lumber per jack, 2 were hired
+
+Feb 0127: 6 pieces of lumber harvested
+Feb 0127: 1 new saplings sprouted
+Mar 0127: 4 pieces of lumber harvested
+Mar 0127: 2 new saplings sprouted
+Apr 0127: 2 pieces of lumber harvested
+May 0127: 4 pieces of lumber harvested
+Jun 0127: 4 pieces of lumber harvested
+Jul 0127: 4 pieces of lumber harvested
+Aug 0127: 4 pieces of lumber harvested
+Aug 0127: 2 new saplings sprouted
+Sep 0127: 4 pieces of lumber harvested
+Oct 0127: 2 pieces of lumber harvested
+Nov 0127: 4 pieces of lumber harvested
+Nov 0127: 1 new saplings sprouted
+Dec 0127: 2 pieces of lumber harvested
+Dec 0127: 2 new saplings sprouted
+Jan 0128: 4 pieces of lumber harvested
+
+0128: Forest has 8 saplings, 44 trees, 189 elder trees, 16 lumberjacks and 14 bears
+0128: 1 bear cub matures
+0128: Given productivity of 3.4 lumber per jack, 3 were hired
+
+Feb 0128: 5 pieces of lumber harvested
+Feb 0128: 1 new saplings sprouted
+Mar 0128: 1 pieces of lumber harvested
+Mar 0128: 1 lumberjacks mauled by bears
+Apr 0128: 3 pieces of lumber harvested
+Apr 0128: 1 lumberjacks mauled by bears
+May 0128: 2 pieces of lumber harvested
+Jun 0128: 2 pieces of lumber harvested
+Jun 0128: 1 new saplings sprouted
+Jul 0128: 4 new saplings sprouted
+Jul 0128: 1 lumberjacks mauled by bears
+Oct 0128: 1 lumberjacks mauled by bears
+Nov 0128: 1 pieces of lumber harvested
+Nov 0128: 1 new saplings sprouted
+Dec 0128: 1 pieces of lumber harvested
+Jan 0129: 2 pieces of lumber harvested
+
+0129: Forest has 7 saplings, 44 trees, 185 elder trees, 13 lumberjacks and 10 bears
+0129: For 4 maulings this year 4 bear killed
+0129: Given productivity of 1.4 lumber per jack, 1 were hired
+
+Feb 0129: 2 pieces of lumber harvested
+Feb 0129: 1 new saplings sprouted
+Feb 0129: 1 lumberjacks mauled by bears
+Mar 0129: 2 pieces of lumber harvested
+Apr 0129: 2 pieces of lumber harvested
+Jul 0129: 2 pieces of lumber harvested
+Jul 0129: 1 new saplings sprouted
+Aug 0129: 1 pieces of lumber harvested
+Sep 0129: 2 pieces of lumber harvested
+Oct 0129: 3 new saplings sprouted
+Nov 0129: 1 new saplings sprouted
+
+0130: Forest has 6 saplings, 49 trees, 181 elder trees, 11 lumberjacks and 9 bears
+0130: For 1 maulings this year 1 bear killed
+0130: Given low productivity of 0.9 lumber per jack, 1 was fired
+
+Jun 0130: 1 new saplings sprouted
+Jul 0130: 2 new saplings sprouted
+Aug 0130: 1 new saplings sprouted
+Oct 0130: 1 new saplings sprouted
+Dec 0130: 1 new saplings sprouted
+
+0131: Forest has 6 saplings, 50 trees, 186 elder trees, 10 lumberjacks and 10 bears
+0131: 1 bear cub matures
+0131: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0131: 1 new saplings sprouted
+May 0131: 1 new saplings sprouted
+Jul 0131: 1 new saplings sprouted
+Aug 0131: 1 pieces of lumber harvested
+Sep 0131: 1 pieces of lumber harvested
+Nov 0131: 2 pieces of lumber harvested
+Nov 0131: 1 new saplings sprouted
+Dec 0131: 2 pieces of lumber harvested
+Dec 0131: 1 new saplings sprouted
+
+0132: Forest has 5 saplings, 52 trees, 186 elder trees, 9 lumberjacks and 11 bears
+0132: 1 bear cub matures
+0132: Given low productivity of 0.6 lumber per jack, 1 was fired
+
+Feb 0132: 2 pieces of lumber harvested
+Feb 0132: 1 new saplings sprouted
+Mar 0132: 2 pieces of lumber harvested
+Mar 0132: 1 new saplings sprouted
+Jun 0132: 2 pieces of lumber harvested
+Jul 0132: 1 new saplings sprouted
+Sep 0132: 1 new saplings sprouted
+
+0133: Forest has 4 saplings, 50 trees, 190 elder trees, 8 lumberjacks and 12 bears
+0133: 1 bear cub matures
+0133: Given low productivity of 0.7 lumber per jack, 1 was fired
+
+Feb 0133: 2 new saplings sprouted
+Mar 0133: 1 new saplings sprouted
+Apr 0133: 1 new saplings sprouted
+Jun 0133: 1 new saplings sprouted
+Sep 0133: 1 new saplings sprouted
+Oct 0133: 1 lumberjacks mauled by bears
+Nov 0133: 1 new saplings sprouted
+Jan 0134: 1 new saplings sprouted
+
+0134: Forest has 8 saplings, 51 trees, 193 elder trees, 6 lumberjacks and 11 bears
+0134: For 1 maulings this year 1 bear killed
+0134: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Nov 0134: 1 new saplings sprouted
+Dec 0134: 1 new saplings sprouted
+
+0135: Forest has 2 saplings, 52 trees, 200 elder trees, 5 lumberjacks and 12 bears
+0135: 1 bear cub matures
+0135: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Apr 0135: 1 new saplings sprouted
+May 0135: 1 new saplings sprouted
+Dec 0135: 1 new saplings sprouted
+
+0136: Forest has 3 saplings, 49 trees, 205 elder trees, 4 lumberjacks and 13 bears
+0136: 1 bear cub matures
+0136: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0136: 1 pieces of lumber harvested
+Apr 0136: 1 pieces of lumber harvested
+Jul 0136: 1 new saplings sprouted
+Sep 0136: 2 pieces of lumber harvested
+Sep 0136: 2 new saplings sprouted
+Dec 0136: 1 new saplings sprouted
+
+0137: Forest has 4 saplings, 42 trees, 212 elder trees, 5 lumberjacks and 14 bears
+0137: 1 bear cub matures
+0137: Given productivity of 1.0 lumber per jack, 1 were hired
+
+Feb 0137: 4 pieces of lumber harvested
+Feb 0137: 1 new saplings sprouted
+Mar 0137: 4 pieces of lumber harvested
+Apr 0137: 2 pieces of lumber harvested
+May 0137: 4 pieces of lumber harvested
+May 0137: 1 new saplings sprouted
+Jun 0137: 2 pieces of lumber harvested
+Jul 0137: 1 pieces of lumber harvested
+Sep 0137: 2 new saplings sprouted
+Sep 0137: 1 lumberjacks mauled by bears
+Oct 0137: 1 new saplings sprouted
+
+0138: Forest has 5 saplings, 40 trees, 209 elder trees, 8 lumberjacks and 13 bears
+0138: For 1 maulings this year 1 bear killed
+0138: Given productivity of 4.2 lumber per jack, 4 were hired
+
+Feb 0138: 4 pieces of lumber harvested
+Mar 0138: 4 pieces of lumber harvested
+Mar 0138: 1 lumberjacks mauled by bears
+Apr 0138: 2 pieces of lumber harvested
+Apr 0138: 1 new saplings sprouted
+May 0138: 2 pieces of lumber harvested
+Jun 0138: 2 pieces of lumber harvested
+Jul 0138: 4 pieces of lumber harvested
+Jul 0138: 3 new saplings sprouted
+Aug 0138: 2 pieces of lumber harvested
+Sep 0138: 2 pieces of lumber harvested
+Sep 0138: 1 new saplings sprouted
+Oct 0138: 5 pieces of lumber harvested
+Oct 0138: 1 new saplings sprouted
+Nov 0138: 4 pieces of lumber harvested
+Dec 0138: 5 pieces of lumber harvested
+Jan 0139: 5 pieces of lumber harvested
+
+0139: Forest has 6 saplings, 36 trees, 196 elder trees, 12 lumberjacks and 12 bears
+0139: For 1 maulings this year 1 bear killed
+0139: Given productivity of 5.9 lumber per jack, 5 were hired
+
+Feb 0139: 9 pieces of lumber harvested
+Mar 0139: 9 pieces of lumber harvested
+Mar 0139: 1 new saplings sprouted
+Apr 0139: 5 pieces of lumber harvested
+Apr 0139: 1 new saplings sprouted
+May 0139: 7 pieces of lumber harvested
+Jun 0139: 7 pieces of lumber harvested
+Jun 0139: 1 new saplings sprouted
+Jul 0139: 7 pieces of lumber harvested
+Aug 0139: 4 pieces of lumber harvested
+Sep 0139: 2 pieces of lumber harvested
+Oct 0139: 5 pieces of lumber harvested
+Oct 0139: 1 new saplings sprouted
+Nov 0139: 4 pieces of lumber harvested
+Dec 0139: 8 pieces of lumber harvested
+Jan 0140: 4 pieces of lumber harvested
+
+0140: Forest has 4 saplings, 30 trees, 169 elder trees, 17 lumberjacks and 13 bears
+0140: 1 bear cub matures
+0140: Given productivity of 5.9 lumber per jack, 5 were hired
+
+Feb 0140: 7 pieces of lumber harvested
+Mar 0140: 8 pieces of lumber harvested
+Mar 0140: 1 lumberjacks mauled by bears
+Apr 0140: 4 pieces of lumber harvested
+Apr 0140: 1 new saplings sprouted
+Apr 0140: 1 lumberjacks mauled by bears
+May 0140: 4 pieces of lumber harvested
+Jun 0140: 2 pieces of lumber harvested
+Jul 0140: 2 pieces of lumber harvested
+Jul 0140: 3 new saplings sprouted
+Jul 0140: 1 lumberjacks mauled by bears
+Aug 0140: 2 pieces of lumber harvested
+Aug 0140: 1 new saplings sprouted
+Sep 0140: 2 pieces of lumber harvested
+Oct 0140: 2 pieces of lumber harvested
+Oct 0140: 3 new saplings sprouted
+Oct 0140: 1 lumberjacks mauled by bears
+Nov 0140: 2 pieces of lumber harvested
+Nov 0140: 2 new saplings sprouted
+
+0141: Forest has 10 saplings, 29 trees, 156 elder trees, 15 lumberjacks and 9 bears
+0141: For 4 maulings this year 4 bear killed
+0141: Given productivity of 2.7 lumber per jack, 2 were hired
+
+Feb 0141: 1 lumberjacks mauled by bears
+Mar 0141: 1 pieces of lumber harvested
+Apr 0141: 1 new saplings sprouted
+May 0141: 3 new saplings sprouted
+Nov 0141: 2 pieces of lumber harvested
+Nov 0141: 1 new saplings sprouted
+Nov 0141: 1 lumberjacks mauled by bears
+
+0142: Forest has 5 saplings, 33 trees, 160 elder trees, 12 lumberjacks and 7 bears
+0142: For 2 maulings this year 2 bear killed
+0142: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Feb 0142: 1 pieces of lumber harvested
+Mar 0142: 2 new saplings sprouted
+May 0142: 3 pieces of lumber harvested
+Jul 0142: 2 pieces of lumber harvested
+Jul 0142: 1 new saplings sprouted
+Aug 0142: 2 pieces of lumber harvested
+Sep 0142: 2 pieces of lumber harvested
+Sep 0142: 1 new saplings sprouted
+Oct 0142: 4 pieces of lumber harvested
+Nov 0142: 3 pieces of lumber harvested
+Dec 0142: 4 pieces of lumber harvested
+Dec 0142: 3 new saplings sprouted
+Jan 0143: 2 pieces of lumber harvested
+Jan 0143: 1 new saplings sprouted
+
+0143: Forest has 8 saplings, 33 trees, 152 elder trees, 13 lumberjacks and 8 bears
+0143: 1 bear cub matures
+0143: Given productivity of 1.9 lumber per jack, 1 were hired
+
+Feb 0143: 2 pieces of lumber harvested
+Apr 0143: 1 pieces of lumber harvested
+Apr 0143: 2 new saplings sprouted
+Jun 0143: 1 new saplings sprouted
+Sep 0143: 1 pieces of lumber harvested
+Nov 0143: 2 pieces of lumber harvested
+Dec 0143: 1 pieces of lumber harvested
+Jan 0144: 1 new saplings sprouted
+
+0144: Forest has 4 saplings, 32 trees, 156 elder trees, 12 lumberjacks and 9 bears
+0144: 1 bear cub matures
+0144: Given low productivity of 0.5 lumber per jack, 1 was fired
+
+Mar 0144: 1 lumberjacks mauled by bears
+May 0144: 1 new saplings sprouted
+Aug 0144: 1 new saplings sprouted
+Oct 0144: 1 new saplings sprouted
+Dec 0144: 1 new saplings sprouted
+Jan 0145: 1 new saplings sprouted
+
+0145: Forest has 5 saplings, 34 trees, 158 elder trees, 10 lumberjacks and 8 bears
+0145: For 1 maulings this year 1 bear killed
+0145: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0145: 1 new saplings sprouted
+
+0146: Forest has 1 saplings, 36 trees, 161 elder trees, 9 lumberjacks and 9 bears
+0146: 1 bear cub matures
+0146: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0146: 1 new saplings sprouted
+Apr 0146: 1 new saplings sprouted
+Dec 0146: 1 new saplings sprouted
+
+0147: Forest has 3 saplings, 35 trees, 163 elder trees, 8 lumberjacks and 10 bears
+0147: 1 bear cub matures
+0147: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0147: 1 lumberjacks mauled by bears
+May 0147: 1 new saplings sprouted
+Jul 0147: 1 new saplings sprouted
+Dec 0147: 1 new saplings sprouted
+
+0148: Forest has 3 saplings, 37 trees, 164 elder trees, 6 lumberjacks and 9 bears
+0148: For 1 maulings this year 1 bear killed
+0148: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0148: 1 new saplings sprouted
+Aug 0148: 1 new saplings sprouted
+Dec 0148: 1 new saplings sprouted
+
+0149: Forest has 3 saplings, 37 trees, 167 elder trees, 5 lumberjacks and 10 bears
+0149: 1 bear cub matures
+0149: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+
+0150: Forest has 0 saplings, 36 trees, 171 elder trees, 4 lumberjacks and 11 bears
+0150: 1 bear cub matures
+0150: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0150: 2 new saplings sprouted
+Aug 0150: 1 new saplings sprouted
+Oct 0150: 1 new saplings sprouted
+
+0151: Forest has 4 saplings, 28 trees, 179 elder trees, 3 lumberjacks and 12 bears
+0151: 1 bear cub matures
+0151: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Aug 0151: 2 new saplings sprouted
+Nov 0151: 1 new saplings sprouted
+Jan 0152: 1 new saplings sprouted
+
+0152: Forest has 4 saplings, 28 trees, 183 elder trees, 2 lumberjacks and 13 bears
+0152: 1 bear cub matures
+0152: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Nov 0152: 1 new saplings sprouted
+
+0153: Forest has 1 saplings, 27 trees, 188 elder trees, 1 lumberjacks and 14 bears
+0153: 1 bear cub matures
+0153: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0153: 1 new saplings sprouted
+Apr 0153: 1 new saplings sprouted
+
+0154: Forest has 2 saplings, 24 trees, 192 elder trees, 1 lumberjacks and 15 bears
+0154: 1 bear cub matures
+0154: The lone lumberjack harvested no trees this year
+
+Sep 0154: 2 new saplings sprouted
+
+0155: Forest has 2 saplings, 21 trees, 197 elder trees, 1 lumberjacks and 16 bears
+0155: 1 bear cub matures
+0155: The lone lumberjack harvested no trees this year
+
+Feb 0155: 1 new saplings sprouted
+Jan 0156: 1 new saplings sprouted
+
+0156: Forest has 2 saplings, 22 trees, 198 elder trees, 1 lumberjacks and 17 bears
+0156: 1 bear cub matures
+0156: The lone lumberjack harvested no trees this year
+
+Feb 0156: 1 new saplings sprouted
+
+0157: Forest has 1 saplings, 21 trees, 201 elder trees, 1 lumberjacks and 18 bears
+0157: 1 bear cub matures
+0157: The lone lumberjack harvested no trees this year
+
+Mar 0157: 1 new saplings sprouted
+Apr 0157: 1 new saplings sprouted
+Oct 0157: 1 new saplings sprouted
+
+0158: Forest has 3 saplings, 19 trees, 204 elder trees, 1 lumberjacks and 19 bears
+0158: 1 bear cub matures
+0158: The lone lumberjack harvested no trees this year
+
+May 0158: 1 new saplings sprouted
+Jul 0158: 1 new saplings sprouted
+
+0159: Forest has 2 saplings, 19 trees, 207 elder trees, 1 lumberjacks and 20 bears
+0159: 1 bear cub matures
+0159: The lone lumberjack harvested no trees this year
+
+Oct 0159: 1 new saplings sprouted
+Nov 0159: 1 new saplings sprouted
+
+0160: Forest has 2 saplings, 21 trees, 207 elder trees, 1 lumberjacks and 21 bears
+0160: 1 bear cub matures
+0160: The lone lumberjack harvested no trees this year
+
+Jul 0160: 1 new saplings sprouted
+
+0161: Forest has 1 saplings, 19 trees, 211 elder trees, 1 lumberjacks and 22 bears
+0161: 1 bear cub matures
+0161: The lone lumberjack harvested no trees this year
+
+Feb 0161: 1 new saplings sprouted
+Jan 0162: 1 new saplings sprouted
+
+0162: Forest has 2 saplings, 16 trees, 215 elder trees, 1 lumberjacks and 23 bears
+0162: 1 bear cub matures
+0162: The lone lumberjack harvested no trees this year
+
+Mar 0162: 1 new saplings sprouted
+Jun 0162: 1 new saplings sprouted
+
+0163: Forest has 2 saplings, 17 trees, 216 elder trees, 1 lumberjacks and 24 bears
+0163: 1 bear cub matures
+0163: The lone lumberjack harvested no trees this year
+
+Apr 0163: 1 new saplings sprouted
+
+0164: Forest has 1 saplings, 17 trees, 218 elder trees, 1 lumberjacks and 25 bears
+0164: 1 bear cub matures
+0164: The lone lumberjack harvested no trees this year
+
+Mar 0164: 1 new saplings sprouted
+
+0165: Forest has 1 saplings, 16 trees, 220 elder trees, 1 lumberjacks and 26 bears
+0165: 1 bear cub matures
+0165: The lone lumberjack harvested no trees this year
+
+Mar 0165: 1 new saplings sprouted
+
+0166: Forest has 1 saplings, 15 trees, 222 elder trees, 1 lumberjacks and 27 bears
+0166: 1 bear cub matures
+0166: The lone lumberjack harvested no trees this year
+
+Feb 0166: 1 new saplings sprouted
+Jul 0166: 1 new saplings sprouted
+
+0167: Forest has 2 saplings, 15 trees, 223 elder trees, 1 lumberjacks and 28 bears
+0167: 1 bear cub matures
+0167: The lone lumberjack harvested no trees this year
+
+Aug 0167: 1 new saplings sprouted
+
+0168: Forest has 1 saplings, 14 trees, 226 elder trees, 1 lumberjacks and 29 bears
+0168: 1 bear cub matures
+0168: The lone lumberjack harvested no trees this year
+
+Sep 0168: 1 new saplings sprouted
+
+0169: Forest has 1 saplings, 13 trees, 228 elder trees, 1 lumberjacks and 30 bears
+0169: 1 bear cub matures
+0169: The lone lumberjack harvested no trees this year
+
+Apr 0169: 1 new saplings sprouted
+May 0169: 1 new saplings sprouted
+
+0170: Forest has 2 saplings, 12 trees, 230 elder trees, 1 lumberjacks and 31 bears
+0170: 1 bear cub matures
+0170: The lone lumberjack harvested no trees this year
+
+May 0170: 1 new saplings sprouted
+
+0171: Forest has 1 saplings, 13 trees, 231 elder trees, 1 lumberjacks and 32 bears
+0171: 1 bear cub matures
+0171: The lone lumberjack harvested no trees this year
+
+Apr 0171: 1 new saplings sprouted
+
+0172: Forest has 1 saplings, 12 trees, 233 elder trees, 1 lumberjacks and 33 bears
+0172: 1 bear cub matures
+0172: The lone lumberjack harvested no trees this year
+
+Sep 0172: 1 new saplings sprouted
+
+0173: Forest has 1 saplings, 11 trees, 235 elder trees, 1 lumberjacks and 34 bears
+0173: 1 bear cub matures
+0173: The lone lumberjack harvested no trees this year
+
+Sep 0173: 1 new saplings sprouted
+
+0174: Forest has 1 saplings, 11 trees, 236 elder trees, 1 lumberjacks and 35 bears
+0174: 1 bear cub matures
+0174: The lone lumberjack harvested no trees this year
+
+
+0175: Forest has 0 saplings, 11 trees, 237 elder trees, 1 lumberjacks and 36 bears
+0175: 1 bear cub matures
+0175: The lone lumberjack harvested no trees this year
+
+
+0176: Forest has 0 saplings, 10 trees, 238 elder trees, 1 lumberjacks and 37 bears
+0176: 1 bear cub matures
+0176: The lone lumberjack harvested no trees this year
+
+
+0177: Forest has 0 saplings, 8 trees, 240 elder trees, 1 lumberjacks and 38 bears
+0177: 1 bear cub matures
+0177: The lone lumberjack harvested no trees this year
+
+Jul 0177: 1 new saplings sprouted
+
+0178: Forest has 1 saplings, 7 trees, 241 elder trees, 1 lumberjacks and 39 bears
+0178: 1 bear cub matures
+0178: The lone lumberjack harvested no trees this year
+
+Sep 0178: 1 new saplings sprouted
+
+0179: Forest has 1 saplings, 7 trees, 242 elder trees, 1 lumberjacks and 40 bears
+0179: 1 bear cub matures
+0179: The lone lumberjack harvested no trees this year
+
+
+0180: Forest has 0 saplings, 6 trees, 244 elder trees, 1 lumberjacks and 41 bears
+0180: 1 bear cub matures
+0180: The lone lumberjack harvested no trees this year
+
+
+0181: Forest has 0 saplings, 5 trees, 245 elder trees, 1 lumberjacks and 42 bears
+0181: 1 bear cub matures
+0181: The lone lumberjack harvested no trees this year
+
+
+0182: Forest has 0 saplings, 4 trees, 246 elder trees, 1 lumberjacks and 43 bears
+0182: 1 bear cub matures
+0182: The lone lumberjack harvested no trees this year
+
+
+0183: Forest has 0 saplings, 3 trees, 247 elder trees, 1 lumberjacks and 44 bears
+0183: 1 bear cub matures
+0183: The lone lumberjack harvested no trees this year
+
+
+0184: Forest has 0 saplings, 2 trees, 248 elder trees, 1 lumberjacks and 45 bears
+0184: 1 bear cub matures
+0184: The lone lumberjack harvested no trees this year
+
+
+0185: Forest has 0 saplings, 2 trees, 248 elder trees, 1 lumberjacks and 46 bears
+0185: 1 bear cub matures
+0185: The lone lumberjack harvested no trees this year
+
+
+0186: Forest has 0 saplings, 2 trees, 248 elder trees, 1 lumberjacks and 47 bears
+0186: 1 bear cub matures
+0186: The lone lumberjack harvested no trees this year
+
+
+0187: Forest has 0 saplings, 2 trees, 248 elder trees, 1 lumberjacks and 48 bears
+0187: 1 bear cub matures
+0187: The lone lumberjack harvested no trees this year
+
+
+0188: Forest has 0 saplings, 1 trees, 249 elder trees, 1 lumberjacks and 49 bears
+0188: 1 bear cub matures
+0188: The lone lumberjack harvested no trees this year
+
+
+0189: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 50 bears
+0189: 1 bear cub matures
+0189: The lone lumberjack harvested no trees this year
+
+
+0190: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 51 bears
+0190: 1 bear cub matures
+0190: The lone lumberjack harvested no trees this year
+
+
+0191: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 52 bears
+0191: 1 bear cub matures
+0191: The lone lumberjack harvested no trees this year
+
+Aug 0191: 1 lumberjacks mauled by bears
+
+0192: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 51 bears
+0192: For 1 maulings this year 1 bear killed
+0192: The lone lumberjack harvested no trees this year
+
+Mar 0192: 1 lumberjacks mauled by bears
+Apr 0192: 2 pieces of lumber harvested
+Apr 0192: 1 lumberjacks mauled by bears
+May 0192: 2 pieces of lumber harvested
+Jun 0192: 2 pieces of lumber harvested
+Jul 0192: 2 pieces of lumber harvested
+Aug 0192: 2 pieces of lumber harvested
+Jan 0193: 1 new saplings sprouted
+
+0193: Forest has 1 saplings, 0 trees, 245 elder trees, 11 lumberjacks and 49 bears
+0193: For 2 maulings this year 2 bear killed
+0193: Given productivity of 10.0 lumber per jack, 10 were hired
+
+Feb 0193: 3 lumberjacks mauled by bears
+Mar 0193: 1 lumberjacks mauled by bears
+Oct 0193: 1 lumberjacks mauled by bears
+Nov 0193: 2 lumberjacks mauled by bears
+
+0194: Forest has 0 saplings, 1 trees, 245 elder trees, 3 lumberjacks and 42 bears
+0194: For 7 maulings this year 7 bear killed
+0194: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+May 0194: 1 new saplings sprouted
+
+0195: Forest has 1 saplings, 1 trees, 245 elder trees, 2 lumberjacks and 43 bears
+0195: 1 bear cub matures
+0195: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+
+0196: Forest has 0 saplings, 2 trees, 245 elder trees, 1 lumberjacks and 44 bears
+0196: 1 bear cub matures
+0196: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Nov 0196: 1 new saplings sprouted
+
+0197: Forest has 1 saplings, 2 trees, 245 elder trees, 1 lumberjacks and 45 bears
+0197: 1 bear cub matures
+0197: The lone lumberjack harvested no trees this year
+
+
+0198: Forest has 0 saplings, 3 trees, 245 elder trees, 1 lumberjacks and 46 bears
+0198: 1 bear cub matures
+0198: The lone lumberjack harvested no trees this year
+
+May 0198: 1 new saplings sprouted
+
+0199: Forest has 1 saplings, 3 trees, 245 elder trees, 1 lumberjacks and 47 bears
+0199: 1 bear cub matures
+0199: The lone lumberjack harvested no trees this year
+
+Sep 0199: 1 new saplings sprouted
+
+0200: Forest has 1 saplings, 4 trees, 245 elder trees, 1 lumberjacks and 48 bears
+0200: 1 bear cub matures
+0200: The lone lumberjack harvested no trees this year
+
+
+0201: Forest has 0 saplings, 5 trees, 245 elder trees, 1 lumberjacks and 49 bears
+0201: 1 bear cub matures
+0201: The lone lumberjack harvested no trees this year
+
+
+0202: Forest has 0 saplings, 5 trees, 245 elder trees, 1 lumberjacks and 50 bears
+0202: 1 bear cub matures
+0202: The lone lumberjack harvested no trees this year
+
+
+0203: Forest has 0 saplings, 4 trees, 246 elder trees, 1 lumberjacks and 51 bears
+0203: 1 bear cub matures
+0203: The lone lumberjack harvested no trees this year
+
+Mar 0203: 2 pieces of lumber harvested
+Mar 0203: 1 lumberjacks mauled by bears
+Apr 0203: 2 pieces of lumber harvested
+May 0203: 2 pieces of lumber harvested
+Jun 0203: 2 pieces of lumber harvested
+Aug 0203: 2 pieces of lumber harvested
+Oct 0203: 1 new saplings sprouted
+
+0204: Forest has 1 saplings, 4 trees, 241 elder trees, 11 lumberjacks and 50 bears
+0204: For 1 maulings this year 1 bear killed
+0204: Given productivity of 10.0 lumber per jack, 10 were hired
+
+Feb 0204: 2 pieces of lumber harvested
+Feb 0204: 3 lumberjacks mauled by bears
+Mar 0204: 1 lumberjacks mauled by bears
+Apr 0204: 1 new saplings sprouted
+Apr 0204: 2 lumberjacks mauled by bears
+Nov 0204: 1 lumberjacks mauled by bears
+Dec 0204: 1 lumberjacks mauled by bears
+
+0205: Forest has 1 saplings, 4 trees, 241 elder trees, 2 lumberjacks and 42 bears
+0205: For 8 maulings this year 8 bear killed
+0205: Given low productivity of 0.7 lumber per jack, 1 was fired
+
+Jun 0205: 1 new saplings sprouted
+Aug 0205: 1 lumberjacks mauled by bears
+
+0206: Forest has 1 saplings, 5 trees, 241 elder trees, 1 lumberjacks and 41 bears
+0206: For 1 maulings this year 1 bear killed
+0206: The lone lumberjack harvested no trees this year
+
+Jun 0206: 2 lumberjacks mauled by bears
+Jul 0206: 2 pieces of lumber harvested
+Jul 0206: 1 lumberjacks mauled by bears
+Aug 0206: 2 pieces of lumber harvested
+Aug 0206: 1 new saplings sprouted
+Sep 0206: 2 pieces of lumber harvested
+Sep 0206: 1 new saplings sprouted
+Oct 0206: 1 lumberjacks mauled by bears
+Dec 0206: 1 new saplings sprouted
+
+0207: Forest has 3 saplings, 5 trees, 239 elder trees, 7 lumberjacks and 37 bears
+0207: For 4 maulings this year 4 bear killed
+0207: Given productivity of 6.0 lumber per jack, 6 were hired
+
+Feb 0207: 4 pieces of lumber harvested
+Feb 0207: 1 lumberjacks mauled by bears
+Mar 0207: 3 pieces of lumber harvested
+Apr 0207: 3 pieces of lumber harvested
+May 0207: 1 lumberjacks mauled by bears
+Jun 0207: 1 new saplings sprouted
+Jun 0207: 1 lumberjacks mauled by bears
+Jul 0207: 2 new saplings sprouted
+Jul 0207: 1 lumberjacks mauled by bears
+Oct 0207: 1 new saplings sprouted
+Nov 0207: 2 pieces of lumber harvested
+Dec 0207: 2 pieces of lumber harvested
+Dec 0207: 1 new saplings sprouted
+Jan 0208: 2 pieces of lumber harvested
+
+0208: Forest has 5 saplings, 6 trees, 232 elder trees, 8 lumberjacks and 33 bears
+0208: For 4 maulings this year 4 bear killed
+0208: Given productivity of 5.3 lumber per jack, 5 were hired
+
+Feb 0208: 4 pieces of lumber harvested
+Feb 0208: 3 lumberjacks mauled by bears
+Mar 0208: 2 pieces of lumber harvested
+Mar 0208: 1 lumberjacks mauled by bears
+Apr 0208: 1 new saplings sprouted
+Apr 0208: 1 lumberjacks mauled by bears
+Aug 0208: 2 new saplings sprouted
+Sep 0208: 1 new saplings sprouted
+
+0209: Forest has 4 saplings, 10 trees, 230 elder trees, 5 lumberjacks and 28 bears
+0209: For 5 maulings this year 5 bear killed
+0209: Given productivity of 2.0 lumber per jack, 2 were hired
+
+Aug 0209: 2 new saplings sprouted
+Sep 0209: 1 lumberjacks mauled by bears
+
+0210: Forest has 2 saplings, 13 trees, 231 elder trees, 3 lumberjacks and 27 bears
+0210: For 1 maulings this year 1 bear killed
+0210: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Jul 0210: 1 new saplings sprouted
+Jan 0211: 1 new saplings sprouted
+
+0211: Forest has 2 saplings, 15 trees, 231 elder trees, 2 lumberjacks and 28 bears
+0211: 1 bear cub matures
+0211: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Sep 0211: 1 new saplings sprouted
+Nov 0211: 1 new saplings sprouted
+
+0212: Forest has 2 saplings, 17 trees, 231 elder trees, 1 lumberjacks and 29 bears
+0212: 1 bear cub matures
+0212: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+
+0213: Forest has 0 saplings, 19 trees, 231 elder trees, 1 lumberjacks and 30 bears
+0213: 1 bear cub matures
+0213: The lone lumberjack harvested no trees this year
+
+
+0214: Forest has 0 saplings, 19 trees, 231 elder trees, 1 lumberjacks and 31 bears
+0214: 1 bear cub matures
+0214: The lone lumberjack harvested no trees this year
+
+Apr 0214: 1 lumberjacks mauled by bears
+Jul 0214: 1 lumberjacks mauled by bears
+
+0215: Forest has 0 saplings, 18 trees, 232 elder trees, 1 lumberjacks and 29 bears
+0215: For 2 maulings this year 2 bear killed
+0215: The lone lumberjack harvested no trees this year
+
+
+0216: Forest has 0 saplings, 18 trees, 232 elder trees, 1 lumberjacks and 30 bears
+0216: 1 bear cub matures
+0216: The lone lumberjack harvested no trees this year
+
+
+0217: Forest has 0 saplings, 15 trees, 235 elder trees, 1 lumberjacks and 31 bears
+0217: 1 bear cub matures
+0217: The lone lumberjack harvested no trees this year
+
+
+0218: Forest has 0 saplings, 10 trees, 240 elder trees, 1 lumberjacks and 32 bears
+0218: 1 bear cub matures
+0218: The lone lumberjack harvested no trees this year
+
+
+0219: Forest has 0 saplings, 6 trees, 244 elder trees, 1 lumberjacks and 33 bears
+0219: 1 bear cub matures
+0219: The lone lumberjack harvested no trees this year
+
+
+0220: Forest has 0 saplings, 4 trees, 246 elder trees, 1 lumberjacks and 34 bears
+0220: 1 bear cub matures
+0220: The lone lumberjack harvested no trees this year
+
+
+0221: Forest has 0 saplings, 2 trees, 248 elder trees, 1 lumberjacks and 35 bears
+0221: 1 bear cub matures
+0221: The lone lumberjack harvested no trees this year
+
+
+0222: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 36 bears
+0222: 1 bear cub matures
+0222: The lone lumberjack harvested no trees this year
+
+
+0223: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 37 bears
+0223: 1 bear cub matures
+0223: The lone lumberjack harvested no trees this year
+
+
+0224: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 38 bears
+0224: 1 bear cub matures
+0224: The lone lumberjack harvested no trees this year
+
+
+0225: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 39 bears
+0225: 1 bear cub matures
+0225: The lone lumberjack harvested no trees this year
+
+
+0226: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 40 bears
+0226: 1 bear cub matures
+0226: The lone lumberjack harvested no trees this year
+
+
+0227: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 41 bears
+0227: 1 bear cub matures
+0227: The lone lumberjack harvested no trees this year
+
+
+0228: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 42 bears
+0228: 1 bear cub matures
+0228: The lone lumberjack harvested no trees this year
+
+
+0229: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 43 bears
+0229: 1 bear cub matures
+0229: The lone lumberjack harvested no trees this year
+
+
+0230: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 44 bears
+0230: 1 bear cub matures
+0230: The lone lumberjack harvested no trees this year
+
+
+0231: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 45 bears
+0231: 1 bear cub matures
+0231: The lone lumberjack harvested no trees this year
+
+
+0232: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 46 bears
+0232: 1 bear cub matures
+0232: The lone lumberjack harvested no trees this year
+
+
+0233: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 47 bears
+0233: 1 bear cub matures
+0233: The lone lumberjack harvested no trees this year
+
+
+0234: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 48 bears
+0234: 1 bear cub matures
+0234: The lone lumberjack harvested no trees this year
+
+
+0235: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 49 bears
+0235: 1 bear cub matures
+0235: The lone lumberjack harvested no trees this year
+
+
+0236: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 50 bears
+0236: 1 bear cub matures
+0236: The lone lumberjack harvested no trees this year
+
+
+0237: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 51 bears
+0237: 1 bear cub matures
+0237: The lone lumberjack harvested no trees this year
+
+
+0238: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 52 bears
+0238: 1 bear cub matures
+0238: The lone lumberjack harvested no trees this year
+
+
+0239: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 53 bears
+0239: 1 bear cub matures
+0239: The lone lumberjack harvested no trees this year
+
+
+0240: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 54 bears
+0240: 1 bear cub matures
+0240: The lone lumberjack harvested no trees this year
+
+
+0241: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 55 bears
+0241: 1 bear cub matures
+0241: The lone lumberjack harvested no trees this year
+
+
+0242: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 56 bears
+0242: 1 bear cub matures
+0242: The lone lumberjack harvested no trees this year
+
+
+0243: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 57 bears
+0243: 1 bear cub matures
+0243: The lone lumberjack harvested no trees this year
+
+
+0244: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 58 bears
+0244: 1 bear cub matures
+0244: The lone lumberjack harvested no trees this year
+
+
+0245: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 59 bears
+0245: 1 bear cub matures
+0245: The lone lumberjack harvested no trees this year
+
+
+0246: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 60 bears
+0246: 1 bear cub matures
+0246: The lone lumberjack harvested no trees this year
+
+
+0247: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 61 bears
+0247: 1 bear cub matures
+0247: The lone lumberjack harvested no trees this year
+
+
+0248: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 62 bears
+0248: 1 bear cub matures
+0248: The lone lumberjack harvested no trees this year
+
+
+0249: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 63 bears
+0249: 1 bear cub matures
+0249: The lone lumberjack harvested no trees this year
+
+
+0250: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 64 bears
+0250: 1 bear cub matures
+0250: The lone lumberjack harvested no trees this year
+
+
+0251: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 65 bears
+0251: 1 bear cub matures
+0251: The lone lumberjack harvested no trees this year
+
+
+0252: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 66 bears
+0252: 1 bear cub matures
+0252: The lone lumberjack harvested no trees this year
+
+Sep 0252: 2 lumberjacks mauled by bears
+Oct 0252: 2 pieces of lumber harvested
+Oct 0252: 1 lumberjacks mauled by bears
+Nov 0252: 2 pieces of lumber harvested
+Dec 0252: 2 pieces of lumber harvested
+Dec 0252: 1 new saplings sprouted
+Jan 0253: 1 new saplings sprouted
+Jan 0253: 1 lumberjacks mauled by bears
+
+0253: Forest has 2 saplings, 0 trees, 247 elder trees, 7 lumberjacks and 62 bears
+0253: For 4 maulings this year 4 bear killed
+0253: Given productivity of 6.0 lumber per jack, 6 were hired
+
+Feb 0253: 2 pieces of lumber harvested
+Feb 0253: 1 new saplings sprouted
+Mar 0253: 2 pieces of lumber harvested
+Apr 0253: 2 pieces of lumber harvested
+Apr 0253: 1 lumberjacks mauled by bears
+May 0253: 1 lumberjacks mauled by bears
+Jun 0253: 1 lumberjacks mauled by bears
+Sep 0253: 1 lumberjacks mauled by bears
+Nov 0253: 1 new saplings sprouted
+Nov 0253: 1 lumberjacks mauled by bears
+
+0254: Forest has 2 saplings, 2 trees, 244 elder trees, 5 lumberjacks and 57 bears
+0254: For 5 maulings this year 5 bear killed
+0254: Given productivity of 3.0 lumber per jack, 3 were hired
+
+Feb 0254: 1 new saplings sprouted
+Feb 0254: 2 lumberjacks mauled by bears
+Mar 0254: 2 pieces of lumber harvested
+Apr 0254: 2 pieces of lumber harvested
+May 0254: 1 lumberjacks mauled by bears
+Aug 0254: 1 new saplings sprouted
+Sep 0254: 1 new saplings sprouted
+
+0255: Forest has 3 saplings, 4 trees, 242 elder trees, 4 lumberjacks and 54 bears
+0255: For 3 maulings this year 3 bear killed
+0255: Given productivity of 2.0 lumber per jack, 2 were hired
+
+Feb 0255: 2 pieces of lumber harvested
+Mar 0255: 1 new saplings sprouted
+Mar 0255: 1 lumberjacks mauled by bears
+May 0255: 1 new saplings sprouted
+
+0256: Forest has 2 saplings, 7 trees, 241 elder trees, 2 lumberjacks and 53 bears
+0256: For 1 maulings this year 1 bear killed
+0256: Given low productivity of 0.7 lumber per jack, 1 was fired
+
+
+0257: Forest has 0 saplings, 9 trees, 241 elder trees, 1 lumberjacks and 54 bears
+0257: 1 bear cub matures
+0257: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+
+0258: Forest has 0 saplings, 9 trees, 241 elder trees, 1 lumberjacks and 55 bears
+0258: 1 bear cub matures
+0258: The lone lumberjack harvested no trees this year
+
+
+0259: Forest has 0 saplings, 9 trees, 241 elder trees, 1 lumberjacks and 56 bears
+0259: 1 bear cub matures
+0259: The lone lumberjack harvested no trees this year
+
+
+0260: Forest has 0 saplings, 9 trees, 241 elder trees, 1 lumberjacks and 57 bears
+0260: 1 bear cub matures
+0260: The lone lumberjack harvested no trees this year
+
+
+0261: Forest has 0 saplings, 9 trees, 241 elder trees, 1 lumberjacks and 58 bears
+0261: 1 bear cub matures
+0261: The lone lumberjack harvested no trees this year
+
+
+0262: Forest has 0 saplings, 9 trees, 241 elder trees, 1 lumberjacks and 59 bears
+0262: 1 bear cub matures
+0262: The lone lumberjack harvested no trees this year
+
+
+0263: Forest has 0 saplings, 7 trees, 243 elder trees, 1 lumberjacks and 60 bears
+0263: 1 bear cub matures
+0263: The lone lumberjack harvested no trees this year
+
+
+0264: Forest has 0 saplings, 5 trees, 245 elder trees, 1 lumberjacks and 61 bears
+0264: 1 bear cub matures
+0264: The lone lumberjack harvested no trees this year
+
+
+0265: Forest has 0 saplings, 2 trees, 248 elder trees, 1 lumberjacks and 62 bears
+0265: 1 bear cub matures
+0265: The lone lumberjack harvested no trees this year
+
+
+0266: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 63 bears
+0266: 1 bear cub matures
+0266: The lone lumberjack harvested no trees this year
+
+
+0267: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 64 bears
+0267: 1 bear cub matures
+0267: The lone lumberjack harvested no trees this year
+
+
+0268: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 65 bears
+0268: 1 bear cub matures
+0268: The lone lumberjack harvested no trees this year
+
+
+0269: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 66 bears
+0269: 1 bear cub matures
+0269: The lone lumberjack harvested no trees this year
+
+
+0270: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 67 bears
+0270: 1 bear cub matures
+0270: The lone lumberjack harvested no trees this year
+
+
+0271: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 68 bears
+0271: 1 bear cub matures
+0271: The lone lumberjack harvested no trees this year
+
+
+0272: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 69 bears
+0272: 1 bear cub matures
+0272: The lone lumberjack harvested no trees this year
+
+
+0273: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 70 bears
+0273: 1 bear cub matures
+0273: The lone lumberjack harvested no trees this year
+
+
+0274: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 71 bears
+0274: 1 bear cub matures
+0274: The lone lumberjack harvested no trees this year
+
+
+0275: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 72 bears
+0275: 1 bear cub matures
+0275: The lone lumberjack harvested no trees this year
+
+
+0276: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 73 bears
+0276: 1 bear cub matures
+0276: The lone lumberjack harvested no trees this year
+
+
+0277: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 74 bears
+0277: 1 bear cub matures
+0277: The lone lumberjack harvested no trees this year
+
+
+0278: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 75 bears
+0278: 1 bear cub matures
+0278: The lone lumberjack harvested no trees this year
+
+
+0279: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 76 bears
+0279: 1 bear cub matures
+0279: The lone lumberjack harvested no trees this year
+
+
+0280: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 77 bears
+0280: 1 bear cub matures
+0280: The lone lumberjack harvested no trees this year
+
+
+0281: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 78 bears
+0281: 1 bear cub matures
+0281: The lone lumberjack harvested no trees this year
+
+
+0282: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 79 bears
+0282: 1 bear cub matures
+0282: The lone lumberjack harvested no trees this year
+
+
+0283: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 80 bears
+0283: 1 bear cub matures
+0283: The lone lumberjack harvested no trees this year
+
+
+0284: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 81 bears
+0284: 1 bear cub matures
+0284: The lone lumberjack harvested no trees this year
+
+
+0285: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 82 bears
+0285: 1 bear cub matures
+0285: The lone lumberjack harvested no trees this year
+
+Feb 0285: 1 lumberjacks mauled by bears
+
+0286: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 81 bears
+0286: For 1 maulings this year 1 bear killed
+0286: The lone lumberjack harvested no trees this year
+
+
+0287: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 82 bears
+0287: 1 bear cub matures
+0287: The lone lumberjack harvested no trees this year
+
+
+0288: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 83 bears
+0288: 1 bear cub matures
+0288: The lone lumberjack harvested no trees this year
+
+
+0289: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 84 bears
+0289: 1 bear cub matures
+0289: The lone lumberjack harvested no trees this year
+
+
+0290: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 85 bears
+0290: 1 bear cub matures
+0290: The lone lumberjack harvested no trees this year
+
+
+0291: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 86 bears
+0291: 1 bear cub matures
+0291: The lone lumberjack harvested no trees this year
+
+
+0292: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 87 bears
+0292: 1 bear cub matures
+0292: The lone lumberjack harvested no trees this year
+
+
+0293: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 88 bears
+0293: 1 bear cub matures
+0293: The lone lumberjack harvested no trees this year
+
+
+0294: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 89 bears
+0294: 1 bear cub matures
+0294: The lone lumberjack harvested no trees this year
+
+
+0295: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 90 bears
+0295: 1 bear cub matures
+0295: The lone lumberjack harvested no trees this year
+
+
+0296: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 91 bears
+0296: 1 bear cub matures
+0296: The lone lumberjack harvested no trees this year
+
+
+0297: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 92 bears
+0297: 1 bear cub matures
+0297: The lone lumberjack harvested no trees this year
+
+
+0298: Forest has 0 saplings, 0 trees, 250 elder trees, 1 lumberjacks and 93 bears
+0298: 1 bear cub matures
+0298: The lone lumberjack harvested no trees this year
+
+Jul 0298: 1 lumberjacks mauled by bears
+Aug 0298: 2 pieces of lumber harvested
+Sep 0298: 2 pieces of lumber harvested
+Oct 0298: 2 pieces of lumber harvested
+Nov 0298: 2 pieces of lumber harvested
+Dec 0298: 2 pieces of lumber harvested
+Jan 0299: 2 pieces of lumber harvested
+
+0299: Forest has 0 saplings, 0 trees, 244 elder trees, 13 lumberjacks and 92 bears
+0299: For 1 maulings this year 1 bear killed
+0299: Given productivity of 12.0 lumber per jack, 12 were hired
+
+Feb 0299: 4 pieces of lumber harvested
+Feb 0299: 6 lumberjacks mauled by bears
+Mar 0299: 4 pieces of lumber harvested
+Mar 0299: 4 lumberjacks mauled by bears
+Apr 0299: 2 pieces of lumber harvested
+Apr 0299: 1 lumberjacks mauled by bears
+May 0299: 2 pieces of lumber harvested
+May 0299: 2 new saplings sprouted
+Jul 0299: 2 pieces of lumber harvested
+Jul 0299: 1 new saplings sprouted
+Aug 0299: 1 new saplings sprouted
+Sep 0299: 1 new saplings sprouted
+Oct 0299: 1 lumberjacks mauled by bears
+Dec 0299: 1 new saplings sprouted
+
+0300: Forest has 6 saplings, 0 trees, 237 elder trees, 15 lumberjacks and 80 bears
+0300: For 12 maulings this year 12 bear killed
+0300: Given productivity of 14.0 lumber per jack, 14 were hired
+
+Feb 0300: 6 pieces of lumber harvested
+Feb 0300: 4 lumberjacks mauled by bears
+Mar 0300: 6 pieces of lumber harvested
+Mar 0300: 1 lumberjacks mauled by bears
+Apr 0300: 4 pieces of lumber harvested
+May 0300: 4 pieces of lumber harvested
+May 0300: 1 new saplings sprouted
+Jun 0300: 2 pieces of lumber harvested
+Jun 0300: 1 new saplings sprouted
+Jun 0300: 1 lumberjacks mauled by bears
+Jul 0300: 2 pieces of lumber harvested
+Aug 0300: 4 pieces of lumber harvested
+Aug 0300: 1 lumberjacks mauled by bears
+Sep 0300: 4 pieces of lumber harvested
+Oct 0300: 2 pieces of lumber harvested
+Nov 0300: 2 pieces of lumber harvested
+Nov 0300: 1 new saplings sprouted
+Dec 0300: 2 pieces of lumber harvested
+Jan 0301: 1 new saplings sprouted
+
+0301: Forest has 4 saplings, 6 trees, 218 elder trees, 12 lumberjacks and 73 bears
+0301: For 7 maulings this year 7 bear killed
+0301: Given productivity of 4.8 lumber per jack, 4 were hired
+
+Feb 0301: 2 pieces of lumber harvested
+Feb 0301: 1 new saplings sprouted
+Feb 0301: 1 lumberjacks mauled by bears
+Mar 0301: 2 pieces of lumber harvested
+Mar 0301: 1 new saplings sprouted
+Apr 0301: 4 pieces of lumber harvested
+Apr 0301: 1 new saplings sprouted
+Jun 0301: 2 pieces of lumber harvested
+Jun 0301: 2 lumberjacks mauled by bears
+Jul 0301: 4 pieces of lumber harvested
+Jul 0301: 3 new saplings sprouted
+Aug 0301: 1 new saplings sprouted
+Sep 0301: 2 pieces of lumber harvested
+Oct 0301: 2 pieces of lumber harvested
+Nov 0301: 2 pieces of lumber harvested
+Dec 0301: 2 pieces of lumber harvested
+Dec 0301: 1 new saplings sprouted
+Jan 0302: 2 pieces of lumber harvested
+Jan 0302: 1 new saplings sprouted
+
+0302: Forest has 9 saplings, 10 trees, 206 elder trees, 11 lumberjacks and 70 bears
+0302: For 3 maulings this year 3 bear killed
+0302: Given productivity of 2.7 lumber per jack, 2 were hired
+
+Feb 0302: 2 pieces of lumber harvested
+Feb 0302: 2 lumberjacks mauled by bears
+Mar 0302: 4 pieces of lumber harvested
+Apr 0302: 4 pieces of lumber harvested
+Apr 0302: 1 new saplings sprouted
+May 0302: 2 pieces of lumber harvested
+May 0302: 1 lumberjacks mauled by bears
+Jun 0302: 1 new saplings sprouted
+Jul 0302: 1 lumberjacks mauled by bears
+Aug 0302: 1 new saplings sprouted
+Sep 0302: 1 pieces of lumber harvested
+Oct 0302: 3 pieces of lumber harvested
+Oct 0302: 1 new saplings sprouted
+Nov 0302: 2 pieces of lumber harvested
+Dec 0302: 2 pieces of lumber harvested
+Dec 0302: 1 new saplings sprouted
+Jan 0303: 2 pieces of lumber harvested
+
+0303: Forest has 5 saplings, 17 trees, 196 elder trees, 10 lumberjacks and 66 bears
+0303: For 4 maulings this year 4 bear killed
+0303: Given productivity of 3.1 lumber per jack, 3 were hired
+
+Feb 0303: 1 lumberjacks mauled by bears
+Mar 0303: 1 new saplings sprouted
+Mar 0303: 2 lumberjacks mauled by bears
+Apr 0303: 1 pieces of lumber harvested
+Apr 0303: 2 new saplings sprouted
+May 0303: 1 pieces of lumber harvested
+Jul 0303: 2 new saplings sprouted
+Jul 0303: 1 lumberjacks mauled by bears
+Oct 0303: 1 new saplings sprouted
+Dec 0303: 1 pieces of lumber harvested
+Dec 0303: 1 new saplings sprouted
+
+0304: Forest has 7 saplings, 19 trees, 196 elder trees, 5 lumberjacks and 62 bears
+0304: For 4 maulings this year 4 bear killed
+0304: Given low productivity of 0.5 lumber per jack, 1 was fired
+
+Feb 0304: 2 new saplings sprouted
+Mar 0304: 1 new saplings sprouted
+Apr 0304: 2 pieces of lumber harvested
+May 0304: 2 pieces of lumber harvested
+Jun 0304: 2 pieces of lumber harvested
+Jul 0304: 1 new saplings sprouted
+Sep 0304: 2 pieces of lumber harvested
+Dec 0304: 1 new saplings sprouted
+Jan 0305: 2 new saplings sprouted
+
+0305: Forest has 7 saplings, 26 trees, 192 elder trees, 6 lumberjacks and 63 bears
+0305: 1 bear cub matures
+0305: Given productivity of 1.6 lumber per jack, 1 were hired
+
+Feb 0305: 1 lumberjacks mauled by bears
+Mar 0305: 2 new saplings sprouted
+Apr 0305: 1 pieces of lumber harvested
+May 0305: 1 lumberjacks mauled by bears
+Jun 0305: 1 new saplings sprouted
+Dec 0305: 1 new saplings sprouted
+Jan 0306: 1 new saplings sprouted
+
+0306: Forest has 5 saplings, 32 trees, 192 elder trees, 3 lumberjacks and 61 bears
+0306: For 2 maulings this year 2 bear killed
+0306: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Feb 0306: 1 new saplings sprouted
+Apr 0306: 1 new saplings sprouted
+Jul 0306: 1 new saplings sprouted
+Aug 0306: 1 new saplings sprouted
+Nov 0306: 1 new saplings sprouted
+Dec 0306: 1 new saplings sprouted
+
+0307: Forest has 6 saplings, 37 trees, 192 elder trees, 2 lumberjacks and 62 bears
+0307: 1 bear cub matures
+0307: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Apr 0307: 1 new saplings sprouted
+Jan 0308: 1 new saplings sprouted
+
+0308: Forest has 2 saplings, 43 trees, 192 elder trees, 1 lumberjacks and 63 bears
+0308: 1 bear cub matures
+0308: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Jul 0308: 1 new saplings sprouted
+Jan 0309: 2 new saplings sprouted
+
+0309: Forest has 3 saplings, 45 trees, 192 elder trees, 1 lumberjacks and 64 bears
+0309: 1 bear cub matures
+0309: The lone lumberjack harvested no trees this year
+
+Feb 0309: 1 new saplings sprouted
+Nov 0309: 1 lumberjacks mauled by bears
+Dec 0309: 1 new saplings sprouted
+Jan 0310: 2 pieces of lumber harvested
+Jan 0310: 1 lumberjacks mauled by bears
+
+0310: Forest has 2 saplings, 43 trees, 196 elder trees, 3 lumberjacks and 62 bears
+0310: For 2 maulings this year 2 bear killed
+0310: Given productivity of 2.0 lumber per jack, 2 were hired
+
+Feb 0310: 2 pieces of lumber harvested
+Feb 0310: 1 lumberjacks mauled by bears
+Mar 0310: 2 pieces of lumber harvested
+Mar 0310: 1 new saplings sprouted
+Mar 0310: 1 lumberjacks mauled by bears
+Apr 0310: 2 pieces of lumber harvested
+May 0310: 2 pieces of lumber harvested
+Jun 0310: 2 pieces of lumber harvested
+Aug 0310: 1 new saplings sprouted
+Sep 0310: 2 pieces of lumber harvested
+Oct 0310: 2 pieces of lumber harvested
+Oct 0310: 1 lumberjacks mauled by bears
+Nov 0310: 1 new saplings sprouted
+Dec 0310: 1 lumberjacks mauled by bears
+Jan 0311: 1 new saplings sprouted
+
+0311: Forest has 4 saplings, 43 trees, 191 elder trees, 15 lumberjacks and 58 bears
+0311: For 4 maulings this year 4 bear killed
+0311: Given productivity of 14.0 lumber per jack, 14 were hired
+
+Feb 0311: 5 pieces of lumber harvested
+Feb 0311: 5 lumberjacks mauled by bears
+Mar 0311: 5 pieces of lumber harvested
+Mar 0311: 1 new saplings sprouted
+Apr 0311: 3 pieces of lumber harvested
+Apr 0311: 1 lumberjacks mauled by bears
+May 0311: 4 pieces of lumber harvested
+May 0311: 1 new saplings sprouted
+Jun 0311: 2 pieces of lumber harvested
+Jun 0311: 2 new saplings sprouted
+Jul 0311: 1 pieces of lumber harvested
+Jul 0311: 1 new saplings sprouted
+Jul 0311: 1 lumberjacks mauled by bears
+Aug 0311: 1 pieces of lumber harvested
+Aug 0311: 1 new saplings sprouted
+Aug 0311: 1 lumberjacks mauled by bears
+Sep 0311: 2 pieces of lumber harvested
+Sep 0311: 1 lumberjacks mauled by bears
+Oct 0311: 2 pieces of lumber harvested
+Nov 0311: 3 pieces of lumber harvested
+Dec 0311: 2 pieces of lumber harvested
+Dec 0311: 1 new saplings sprouted
+Jan 0312: 2 pieces of lumber harvested
+Jan 0312: 1 new saplings sprouted
+
+0312: Forest has 8 saplings, 33 trees, 185 elder trees, 11 lumberjacks and 49 bears
+0312: For 9 maulings this year 9 bear killed
+0312: Given productivity of 5.3 lumber per jack, 5 were hired
+
+Feb 0312: 4 pieces of lumber harvested
+Feb 0312: 3 lumberjacks mauled by bears
+Mar 0312: 4 pieces of lumber harvested
+Mar 0312: 1 new saplings sprouted
+Mar 0312: 1 lumberjacks mauled by bears
+Apr 0312: 3 pieces of lumber harvested
+Apr 0312: 1 new saplings sprouted
+May 0312: 2 pieces of lumber harvested
+Jun 0312: 2 pieces of lumber harvested
+Jun 0312: 2 new saplings sprouted
+Jun 0312: 1 lumberjacks mauled by bears
+Jul 0312: 2 pieces of lumber harvested
+Jul 0312: 1 new saplings sprouted
+Aug 0312: 2 pieces of lumber harvested
+Aug 0312: 1 lumberjacks mauled by bears
+Sep 0312: 1 pieces of lumber harvested
+Sep 0312: 1 new saplings sprouted
+Oct 0312: 1 pieces of lumber harvested
+Nov 0312: 1 pieces of lumber harvested
+Nov 0312: 1 new saplings sprouted
+Dec 0312: 1 pieces of lumber harvested
+Dec 0312: 2 new saplings sprouted
+Jan 0313: 1 pieces of lumber harvested
+
+0313: Forest has 9 saplings, 32 trees, 179 elder trees, 9 lumberjacks and 43 bears
+0313: For 6 maulings this year 6 bear killed
+0313: Given productivity of 4.8 lumber per jack, 4 were hired
+
+Feb 0313: 2 pieces of lumber harvested
+Mar 0313: 2 pieces of lumber harvested
+Apr 0313: 1 pieces of lumber harvested
+Apr 0313: 1 new saplings sprouted
+May 0313: 1 pieces of lumber harvested
+Jun 0313: 3 pieces of lumber harvested
+Jul 0313: 2 pieces of lumber harvested
+Jul 0313: 2 lumberjacks mauled by bears
+Aug 0313: 4 pieces of lumber harvested
+Sep 0313: 2 pieces of lumber harvested
+Oct 0313: 4 pieces of lumber harvested
+Oct 0313: 1 new saplings sprouted
+Nov 0313: 3 pieces of lumber harvested
+Dec 0313: 1 new saplings sprouted
+Dec 0313: 1 lumberjacks mauled by bears
+Jan 0314: 2 pieces of lumber harvested
+
+0314: Forest has 3 saplings, 32 trees, 173 elder trees, 10 lumberjacks and 40 bears
+0314: For 3 maulings this year 3 bear killed
+0314: Given productivity of 4.3 lumber per jack, 4 were hired
+
+Feb 0314: 4 pieces of lumber harvested
+Feb 0314: 1 new saplings sprouted
+Feb 0314: 1 lumberjacks mauled by bears
+Mar 0314: 2 pieces of lumber harvested
+Apr 0314: 3 pieces of lumber harvested
+Apr 0314: 2 new saplings sprouted
+May 0314: 5 pieces of lumber harvested
+Jun 0314: 4 pieces of lumber harvested
+Jun 0314: 1 new saplings sprouted
+Jul 0314: 4 pieces of lumber harvested
+Jul 0314: 1 lumberjacks mauled by bears
+Aug 0314: 4 pieces of lumber harvested
+Aug 0314: 1 new saplings sprouted
+Aug 0314: 1 lumberjacks mauled by bears
+Sep 0314: 2 pieces of lumber harvested
+Sep 0314: 1 new saplings sprouted
+Oct 0314: 2 pieces of lumber harvested
+Oct 0314: 3 new saplings sprouted
+Nov 0314: 2 pieces of lumber harvested
+Nov 0314: 1 new saplings sprouted
+Dec 0314: 1 new saplings sprouted
+Jan 0315: 1 new saplings sprouted
+
+0315: Forest has 12 saplings, 30 trees, 161 elder trees, 11 lumberjacks and 37 bears
+0315: For 3 maulings this year 3 bear killed
+0315: Given productivity of 4.6 lumber per jack, 4 were hired
+
+Feb 0315: 4 pieces of lumber harvested
+Mar 0315: 4 pieces of lumber harvested
+Apr 0315: 2 pieces of lumber harvested
+May 0315: 2 new saplings sprouted
+Jun 0315: 1 lumberjacks mauled by bears
+Aug 0315: 1 new saplings sprouted
+Sep 0315: 2 new saplings sprouted
+Oct 0315: 2 new saplings sprouted
+Dec 0315: 2 pieces of lumber harvested
+Dec 0315: 1 new saplings sprouted
+
+0316: Forest has 8 saplings, 37 trees, 160 elder trees, 11 lumberjacks and 36 bears
+0316: For 1 maulings this year 1 bear killed
+0316: Given productivity of 1.2 lumber per jack, 1 were hired
+
+Feb 0316: 3 pieces of lumber harvested
+Mar 0316: 1 lumberjacks mauled by bears
+Apr 0316: 1 pieces of lumber harvested
+Apr 0316: 1 new saplings sprouted
+May 0316: 1 new saplings sprouted
+Jun 0316: 1 new saplings sprouted
+Aug 0316: 1 new saplings sprouted
+Jan 0317: 1 new saplings sprouted
+
+0317: Forest has 5 saplings, 40 trees, 162 elder trees, 9 lumberjacks and 35 bears
+0317: For 1 maulings this year 1 bear killed
+0317: Given low productivity of 0.4 lumber per jack, 1 was fired
+
+Jun 0317: 1 new saplings sprouted
+Jul 0317: 1 pieces of lumber harvested
+Sep 0317: 1 pieces of lumber harvested
+Dec 0317: 1 new saplings sprouted
+Jan 0318: 1 new saplings sprouted
+
+0318: Forest has 3 saplings, 41 trees, 164 elder trees, 8 lumberjacks and 36 bears
+0318: 1 bear cub matures
+0318: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Apr 0318: 1 new saplings sprouted
+Jun 0318: 1 new saplings sprouted
+Sep 0318: 1 lumberjacks mauled by bears
+Oct 0318: 1 new saplings sprouted
+Dec 0318: 1 lumberjacks mauled by bears
+
+0319: Forest has 3 saplings, 41 trees, 167 elder trees, 5 lumberjacks and 34 bears
+0319: For 2 maulings this year 2 bear killed
+0319: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Jun 0319: 2 new saplings sprouted
+Aug 0319: 1 new saplings sprouted
+
+0320: Forest has 3 saplings, 43 trees, 168 elder trees, 4 lumberjacks and 35 bears
+0320: 1 bear cub matures
+0320: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0320: 1 lumberjacks mauled by bears
+Mar 0320: 1 new saplings sprouted
+Jun 0320: 1 new saplings sprouted
+Oct 0320: 1 new saplings sprouted
+
+0321: Forest has 3 saplings, 44 trees, 170 elder trees, 2 lumberjacks and 34 bears
+0321: For 1 maulings this year 1 bear killed
+0321: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+May 0321: 1 new saplings sprouted
+May 0321: 1 lumberjacks mauled by bears
+Jun 0321: 1 new saplings sprouted
+Oct 0321: 1 new saplings sprouted
+
+0322: Forest has 3 saplings, 43 trees, 174 elder trees, 1 lumberjacks and 33 bears
+0322: For 1 maulings this year 1 bear killed
+0322: The lone lumberjack harvested no trees this year
+
+Jun 0322: 1 new saplings sprouted
+
+0323: Forest has 1 saplings, 39 trees, 181 elder trees, 1 lumberjacks and 34 bears
+0323: 1 bear cub matures
+0323: The lone lumberjack harvested no trees this year
+
+Jun 0323: 1 new saplings sprouted
+
+0324: Forest has 1 saplings, 38 trees, 183 elder trees, 1 lumberjacks and 35 bears
+0324: 1 bear cub matures
+0324: The lone lumberjack harvested no trees this year
+
+Jan 0325: 1 new saplings sprouted
+
+0325: Forest has 1 saplings, 29 trees, 193 elder trees, 1 lumberjacks and 36 bears
+0325: 1 bear cub matures
+0325: The lone lumberjack harvested no trees this year
+
+Dec 0325: 1 new saplings sprouted
+
+0326: Forest has 1 saplings, 23 trees, 200 elder trees, 1 lumberjacks and 37 bears
+0326: 1 bear cub matures
+0326: The lone lumberjack harvested no trees this year
+
+
+0327: Forest has 0 saplings, 19 trees, 205 elder trees, 1 lumberjacks and 38 bears
+0327: 1 bear cub matures
+0327: The lone lumberjack harvested no trees this year
+
+
+0328: Forest has 0 saplings, 16 trees, 208 elder trees, 1 lumberjacks and 39 bears
+0328: 1 bear cub matures
+0328: The lone lumberjack harvested no trees this year
+
+Jul 0328: 1 new saplings sprouted
+
+0329: Forest has 1 saplings, 13 trees, 211 elder trees, 1 lumberjacks and 40 bears
+0329: 1 bear cub matures
+0329: The lone lumberjack harvested no trees this year
+
+
+0330: Forest has 0 saplings, 11 trees, 214 elder trees, 1 lumberjacks and 41 bears
+0330: 1 bear cub matures
+0330: The lone lumberjack harvested no trees this year
+
+
+0331: Forest has 0 saplings, 8 trees, 217 elder trees, 1 lumberjacks and 42 bears
+0331: 1 bear cub matures
+0331: The lone lumberjack harvested no trees this year
+
+
+0332: Forest has 0 saplings, 5 trees, 220 elder trees, 1 lumberjacks and 43 bears
+0332: 1 bear cub matures
+0332: The lone lumberjack harvested no trees this year
+
+
+0333: Forest has 0 saplings, 4 trees, 221 elder trees, 1 lumberjacks and 44 bears
+0333: 1 bear cub matures
+0333: The lone lumberjack harvested no trees this year
+
+
+0334: Forest has 0 saplings, 3 trees, 222 elder trees, 1 lumberjacks and 45 bears
+0334: 1 bear cub matures
+0334: The lone lumberjack harvested no trees this year
+
+
+0335: Forest has 0 saplings, 2 trees, 223 elder trees, 1 lumberjacks and 46 bears
+0335: 1 bear cub matures
+0335: The lone lumberjack harvested no trees this year
+
+
+0336: Forest has 0 saplings, 1 trees, 224 elder trees, 1 lumberjacks and 47 bears
+0336: 1 bear cub matures
+0336: The lone lumberjack harvested no trees this year
+
+
+0337: Forest has 0 saplings, 1 trees, 224 elder trees, 1 lumberjacks and 48 bears
+0337: 1 bear cub matures
+0337: The lone lumberjack harvested no trees this year
+
+
+0338: Forest has 0 saplings, 1 trees, 224 elder trees, 1 lumberjacks and 49 bears
+0338: 1 bear cub matures
+0338: The lone lumberjack harvested no trees this year
+
+
+0339: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 50 bears
+0339: 1 bear cub matures
+0339: The lone lumberjack harvested no trees this year
+
+
+0340: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 51 bears
+0340: 1 bear cub matures
+0340: The lone lumberjack harvested no trees this year
+
+
+0341: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 52 bears
+0341: 1 bear cub matures
+0341: The lone lumberjack harvested no trees this year
+
+
+0342: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 53 bears
+0342: 1 bear cub matures
+0342: The lone lumberjack harvested no trees this year
+
+
+0343: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 54 bears
+0343: 1 bear cub matures
+0343: The lone lumberjack harvested no trees this year
+
+
+0344: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 55 bears
+0344: 1 bear cub matures
+0344: The lone lumberjack harvested no trees this year
+
+
+0345: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 56 bears
+0345: 1 bear cub matures
+0345: The lone lumberjack harvested no trees this year
+
+
+0346: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 57 bears
+0346: 1 bear cub matures
+0346: The lone lumberjack harvested no trees this year
+
+
+0347: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 58 bears
+0347: 1 bear cub matures
+0347: The lone lumberjack harvested no trees this year
+
+
+0348: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 59 bears
+0348: 1 bear cub matures
+0348: The lone lumberjack harvested no trees this year
+
+
+0349: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 60 bears
+0349: 1 bear cub matures
+0349: The lone lumberjack harvested no trees this year
+
+
+0350: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 61 bears
+0350: 1 bear cub matures
+0350: The lone lumberjack harvested no trees this year
+
+
+0351: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 62 bears
+0351: 1 bear cub matures
+0351: The lone lumberjack harvested no trees this year
+
+
+0352: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 63 bears
+0352: 1 bear cub matures
+0352: The lone lumberjack harvested no trees this year
+
+
+0353: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 64 bears
+0353: 1 bear cub matures
+0353: The lone lumberjack harvested no trees this year
+
+
+0354: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 65 bears
+0354: 1 bear cub matures
+0354: The lone lumberjack harvested no trees this year
+
+
+0355: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 66 bears
+0355: 1 bear cub matures
+0355: The lone lumberjack harvested no trees this year
+
+
+0356: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 67 bears
+0356: 1 bear cub matures
+0356: The lone lumberjack harvested no trees this year
+
+
+0357: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 68 bears
+0357: 1 bear cub matures
+0357: The lone lumberjack harvested no trees this year
+
+
+0358: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 69 bears
+0358: 1 bear cub matures
+0358: The lone lumberjack harvested no trees this year
+
+
+0359: Forest has 0 saplings, 0 trees, 225 elder trees, 1 lumberjacks and 70 bears
+0359: 1 bear cub matures
+0359: The lone lumberjack harvested no trees this year
+
+Oct 0359: 2 pieces of lumber harvested
+Oct 0359: 1 lumberjacks mauled by bears
+Nov 0359: 2 pieces of lumber harvested
+Dec 0359: 2 pieces of lumber harvested
+Dec 0359: 1 new saplings sprouted
+Jan 0360: 2 pieces of lumber harvested
+Jan 0360: 1 lumberjacks mauled by bears
+
+0360: Forest has 1 saplings, 0 trees, 221 elder trees, 9 lumberjacks and 68 bears
+0360: For 2 maulings this year 2 bear killed
+0360: Given productivity of 8.0 lumber per jack, 8 were hired
+
+Feb 0360: 4 pieces of lumber harvested
+Feb 0360: 5 lumberjacks mauled by bears
+Mar 0360: 4 pieces of lumber harvested
+Apr 0360: 4 pieces of lumber harvested
+Apr 0360: 1 lumberjacks mauled by bears
+May 0360: 4 pieces of lumber harvested
+May 0360: 2 new saplings sprouted
+Jun 0360: 2 pieces of lumber harvested
+Jun 0360: 1 new saplings sprouted
+Jul 0360: 4 pieces of lumber harvested
+Jul 0360: 1 new saplings sprouted
+Aug 0360: 4 pieces of lumber harvested
+Sep 0360: 4 pieces of lumber harvested
+Sep 0360: 1 new saplings sprouted
+Oct 0360: 4 pieces of lumber harvested
+Nov 0360: 2 pieces of lumber harvested
+Jan 0361: 4 pieces of lumber harvested
+
+0361: Forest has 5 saplings, 1 trees, 201 elder trees, 16 lumberjacks and 62 bears
+0361: For 6 maulings this year 6 bear killed
+0361: Given productivity of 13.3 lumber per jack, 13 were hired
+
+Feb 0361: 6 pieces of lumber harvested
+Feb 0361: 1 new saplings sprouted
+Feb 0361: 3 lumberjacks mauled by bears
+Mar 0361: 8 pieces of lumber harvested
+Mar 0361: 1 new saplings sprouted
+Mar 0361: 2 lumberjacks mauled by bears
+Apr 0361: 8 pieces of lumber harvested
+Apr 0361: 1 new saplings sprouted
+Apr 0361: 2 lumberjacks mauled by bears
+May 0361: 8 pieces of lumber harvested
+Jun 0361: 4 pieces of lumber harvested
+Jun 0361: 1 lumberjacks mauled by bears
+Jul 0361: 2 pieces of lumber harvested
+Jul 0361: 2 lumberjacks mauled by bears
+Aug 0361: 4 pieces of lumber harvested
+Aug 0361: 1 new saplings sprouted
+Sep 0361: 4 pieces of lumber harvested
+Oct 0361: 4 pieces of lumber harvested
+Oct 0361: 1 new saplings sprouted
+Nov 0361: 4 pieces of lumber harvested
+Dec 0361: 6 pieces of lumber harvested
+
+0362: Forest has 5 saplings, 6 trees, 172 elder trees, 15 lumberjacks and 52 bears
+0362: For 10 maulings this year 10 bear killed
+0362: Given productivity of 9.7 lumber per jack, 9 were hired
+
+Feb 0362: 2 pieces of lumber harvested
+Feb 0362: 1 new saplings sprouted
+Feb 0362: 1 lumberjacks mauled by bears
+Mar 0362: 2 pieces of lumber harvested
+Mar 0362: 1 new saplings sprouted
+Mar 0362: 1 lumberjacks mauled by bears
+Apr 0362: 1 pieces of lumber harvested
+May 0362: 2 pieces of lumber harvested
+May 0362: 1 new saplings sprouted
+May 0362: 2 lumberjacks mauled by bears
+Jun 0362: 2 pieces of lumber harvested
+Jun 0362: 1 new saplings sprouted
+Jul 0362: 4 pieces of lumber harvested
+Jul 0362: 1 new saplings sprouted
+Aug 0362: 2 pieces of lumber harvested
+Aug 0362: 2 new saplings sprouted
+Aug 0362: 1 lumberjacks mauled by bears
+Sep 0362: 2 pieces of lumber harvested
+Oct 0362: 2 pieces of lumber harvested
+Oct 0362: 1 lumberjacks mauled by bears
+Nov 0362: 2 pieces of lumber harvested
+Dec 0362: 2 pieces of lumber harvested
+Dec 0362: 1 new saplings sprouted
+Jan 0363: 2 lumberjacks mauled by bears
+
+0363: Forest has 8 saplings, 10 trees, 161 elder trees, 10 lumberjacks and 44 bears
+0363: For 8 maulings this year 8 bear killed
+0363: Given productivity of 3.3 lumber per jack, 3 were hired
+
+Feb 0363: 2 pieces of lumber harvested
+Feb 0363: 1 lumberjacks mauled by bears
+Mar 0363: 2 pieces of lumber harvested
+Mar 0363: 1 lumberjacks mauled by bears
+Apr 0363: 2 pieces of lumber harvested
+Apr 0363: 1 new saplings sprouted
+May 0363: 1 pieces of lumber harvested
+May 0363: 3 new saplings sprouted
+Jun 0363: 1 new saplings sprouted
+Jun 0363: 1 lumberjacks mauled by bears
+Jul 0363: 2 new saplings sprouted
+Aug 0363: 2 new saplings sprouted
+Nov 0363: 1 pieces of lumber harvested
+Jan 0364: 1 new saplings sprouted
+
+0364: Forest has 10 saplings, 16 trees, 158 elder trees, 8 lumberjacks and 41 bears
+0364: For 3 maulings this year 3 bear killed
+0364: Given productivity of 1.1 lumber per jack, 1 were hired
+
+Apr 0364: 2 new saplings sprouted
+May 0364: 2 pieces of lumber harvested
+Jun 0364: 2 pieces of lumber harvested
+Jun 0364: 1 new saplings sprouted
+Jul 0364: 2 pieces of lumber harvested
+Jul 0364: 2 new saplings sprouted
+Aug 0364: 2 pieces of lumber harvested
+Aug 0364: 1 new saplings sprouted
+Sep 0364: 2 pieces of lumber harvested
+Oct 0364: 3 pieces of lumber harvested
+Nov 0364: 1 new saplings sprouted
+Jan 0365: 2 pieces of lumber harvested
+Jan 0365: 1 new saplings sprouted
+
+0365: Forest has 8 saplings, 25 trees, 151 elder trees, 9 lumberjacks and 42 bears
+0365: 1 bear cub matures
+0365: Given productivity of 1.9 lumber per jack, 1 were hired
+
+Feb 0365: 2 pieces of lumber harvested
+May 0365: 2 pieces of lumber harvested
+May 0365: 1 lumberjacks mauled by bears
+Jun 0365: 2 pieces of lumber harvested
+Jul 0365: 1 new saplings sprouted
+Sep 0365: 2 pieces of lumber harvested
+Oct 0365: 2 pieces of lumber harvested
+Oct 0365: 1 lumberjacks mauled by bears
+Dec 0365: 1 new saplings sprouted
+Jan 0366: 3 new saplings sprouted
+
+0366: Forest has 5 saplings, 33 trees, 146 elder trees, 8 lumberjacks and 40 bears
+0366: For 2 maulings this year 2 bear killed
+0366: Given productivity of 1.4 lumber per jack, 1 were hired
+
+Feb 0366: 1 new saplings sprouted
+Mar 0366: 1 new saplings sprouted
+Jun 0366: 1 new saplings sprouted
+Oct 0366: 1 pieces of lumber harvested
+Oct 0366: 1 new saplings sprouted
+Jan 0367: 1 new saplings sprouted
+
+0367: Forest has 5 saplings, 37 trees, 146 elder trees, 7 lumberjacks and 41 bears
+0367: 1 bear cub matures
+0367: Given low productivity of 0.1 lumber per jack, 1 was fired
+
+Mar 0367: 1 new saplings sprouted
+Jun 0367: 1 new saplings sprouted
+Dec 0367: 1 new saplings sprouted
+
+0368: Forest has 3 saplings, 42 trees, 146 elder trees, 6 lumberjacks and 42 bears
+0368: 1 bear cub matures
+0368: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0368: 1 new saplings sprouted
+Feb 0368: 1 lumberjacks mauled by bears
+May 0368: 1 new saplings sprouted
+Jul 0368: 1 new saplings sprouted
+
+0369: Forest has 3 saplings, 45 trees, 146 elder trees, 4 lumberjacks and 41 bears
+0369: For 1 maulings this year 1 bear killed
+0369: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0369: 1 new saplings sprouted
+Jul 0369: 1 pieces of lumber harvested
+Jul 0369: 1 new saplings sprouted
+Aug 0369: 1 pieces of lumber harvested
+Sep 0369: 1 pieces of lumber harvested
+Sep 0369: 1 new saplings sprouted
+Oct 0369: 1 pieces of lumber harvested
+
+0370: Forest has 3 saplings, 43 trees, 147 elder trees, 5 lumberjacks and 42 bears
+0370: 1 bear cub matures
+0370: Given productivity of 1.0 lumber per jack, 1 were hired
+
+Jul 0370: 1 new saplings sprouted
+Sep 0370: 1 new saplings sprouted
+Oct 0370: 1 new saplings sprouted
+
+0371: Forest has 3 saplings, 42 trees, 151 elder trees, 4 lumberjacks and 43 bears
+0371: 1 bear cub matures
+0371: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Mar 0371: 1 pieces of lumber harvested
+Aug 0371: 1 new saplings sprouted
+
+0372: Forest has 1 saplings, 40 trees, 155 elder trees, 3 lumberjacks and 44 bears
+0372: 1 bear cub matures
+0372: Given low productivity of 0.2 lumber per jack, 1 was fired
+
+Aug 0372: 1 new saplings sprouted
+Oct 0372: 1 new saplings sprouted
+Jan 0373: 1 new saplings sprouted
+
+0373: Forest has 3 saplings, 35 trees, 161 elder trees, 2 lumberjacks and 45 bears
+0373: 1 bear cub matures
+0373: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+
+0374: Forest has 0 saplings, 30 trees, 169 elder trees, 1 lumberjacks and 46 bears
+0374: 1 bear cub matures
+0374: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0374: 1 new saplings sprouted
+May 0374: 1 new saplings sprouted
+Jun 0374: 1 new saplings sprouted
+
+0375: Forest has 3 saplings, 24 trees, 175 elder trees, 1 lumberjacks and 47 bears
+0375: 1 bear cub matures
+0375: The lone lumberjack harvested no trees this year
+
+Aug 0375: 1 new saplings sprouted
+
+0376: Forest has 1 saplings, 22 trees, 180 elder trees, 1 lumberjacks and 48 bears
+0376: 1 bear cub matures
+0376: The lone lumberjack harvested no trees this year
+
+Mar 0376: 1 new saplings sprouted
+May 0376: 1 new saplings sprouted
+Nov 0376: 1 new saplings sprouted
+
+0377: Forest has 3 saplings, 19 trees, 184 elder trees, 1 lumberjacks and 49 bears
+0377: 1 bear cub matures
+0377: The lone lumberjack harvested no trees this year
+
+Oct 0377: 1 new saplings sprouted
+
+0378: Forest has 1 saplings, 19 trees, 187 elder trees, 1 lumberjacks and 50 bears
+0378: 1 bear cub matures
+0378: The lone lumberjack harvested no trees this year
+
+
+0379: Forest has 0 saplings, 18 trees, 189 elder trees, 1 lumberjacks and 51 bears
+0379: 1 bear cub matures
+0379: The lone lumberjack harvested no trees this year
+
+May 0379: 1 new saplings sprouted
+
+0380: Forest has 1 saplings, 15 trees, 192 elder trees, 1 lumberjacks and 52 bears
+0380: 1 bear cub matures
+0380: The lone lumberjack harvested no trees this year
+
+Nov 0380: 1 new saplings sprouted
+
+0381: Forest has 1 saplings, 13 trees, 195 elder trees, 1 lumberjacks and 53 bears
+0381: 1 bear cub matures
+0381: The lone lumberjack harvested no trees this year
+
+
+0382: Forest has 0 saplings, 13 trees, 196 elder trees, 1 lumberjacks and 54 bears
+0382: 1 bear cub matures
+0382: The lone lumberjack harvested no trees this year
+
+Dec 0382: 1 new saplings sprouted
+
+0383: Forest has 1 saplings, 10 trees, 199 elder trees, 1 lumberjacks and 55 bears
+0383: 1 bear cub matures
+0383: The lone lumberjack harvested no trees this year
+
+
+0384: Forest has 0 saplings, 11 trees, 199 elder trees, 1 lumberjacks and 56 bears
+0384: 1 bear cub matures
+0384: The lone lumberjack harvested no trees this year
+
+
+0385: Forest has 0 saplings, 8 trees, 202 elder trees, 1 lumberjacks and 57 bears
+0385: 1 bear cub matures
+0385: The lone lumberjack harvested no trees this year
+
+Feb 0385: 1 new saplings sprouted
+
+0386: Forest has 1 saplings, 7 trees, 203 elder trees, 1 lumberjacks and 58 bears
+0386: 1 bear cub matures
+0386: The lone lumberjack harvested no trees this year
+
+Feb 0386: 1 new saplings sprouted
+
+0387: Forest has 1 saplings, 5 trees, 206 elder trees, 1 lumberjacks and 59 bears
+0387: 1 bear cub matures
+0387: The lone lumberjack harvested no trees this year
+
+
+0388: Forest has 0 saplings, 5 trees, 207 elder trees, 1 lumberjacks and 60 bears
+0388: 1 bear cub matures
+0388: The lone lumberjack harvested no trees this year
+
+Jun 0388: 1 new saplings sprouted
+
+0389: Forest has 1 saplings, 5 trees, 207 elder trees, 1 lumberjacks and 61 bears
+0389: 1 bear cub matures
+0389: The lone lumberjack harvested no trees this year
+
+Aug 0389: 1 new saplings sprouted
+
+0390: Forest has 1 saplings, 5 trees, 208 elder trees, 1 lumberjacks and 62 bears
+0390: 1 bear cub matures
+0390: The lone lumberjack harvested no trees this year
+
+
+0391: Forest has 0 saplings, 5 trees, 209 elder trees, 1 lumberjacks and 63 bears
+0391: 1 bear cub matures
+0391: The lone lumberjack harvested no trees this year
+
+Jul 0391: 1 lumberjacks mauled by bears
+Sep 0391: 1 new saplings sprouted
+
+0392: Forest has 1 saplings, 5 trees, 209 elder trees, 1 lumberjacks and 62 bears
+0392: For 1 maulings this year 1 bear killed
+0392: The lone lumberjack harvested no trees this year
+
+Jun 0392: 2 lumberjacks mauled by bears
+
+0393: Forest has 0 saplings, 5 trees, 210 elder trees, 1 lumberjacks and 60 bears
+0393: For 2 maulings this year 2 bear killed
+0393: The lone lumberjack harvested no trees this year
+
+Jul 0393: 1 lumberjacks mauled by bears
+Aug 0393: 2 pieces of lumber harvested
+Sep 0393: 2 pieces of lumber harvested
+Sep 0393: 1 new saplings sprouted
+Oct 0393: 2 pieces of lumber harvested
+Dec 0393: 1 new saplings sprouted
+Jan 0394: 2 pieces of lumber harvested
+
+0394: Forest has 2 saplings, 5 trees, 206 elder trees, 9 lumberjacks and 59 bears
+0394: For 1 maulings this year 1 bear killed
+0394: Given productivity of 8.0 lumber per jack, 8 were hired
+
+Feb 0394: 4 pieces of lumber harvested
+Feb 0394: 3 lumberjacks mauled by bears
+Mar 0394: 4 pieces of lumber harvested
+Apr 0394: 4 pieces of lumber harvested
+Apr 0394: 1 new saplings sprouted
+May 0394: 2 pieces of lumber harvested
+May 0394: 1 lumberjacks mauled by bears
+Jun 0394: 2 pieces of lumber harvested
+Jul 0394: 4 pieces of lumber harvested
+Jul 0394: 1 new saplings sprouted
+Aug 0394: 4 pieces of lumber harvested
+Sep 0394: 4 pieces of lumber harvested
+Sep 0394: 1 new saplings sprouted
+Oct 0394: 2 pieces of lumber harvested
+Nov 0394: 4 pieces of lumber harvested
+Nov 0394: 1 lumberjacks mauled by bears
+Dec 0394: 2 pieces of lumber harvested
+Dec 0394: 1 new saplings sprouted
+Jan 0395: 2 pieces of lumber harvested
+
+0395: Forest has 4 saplings, 7 trees, 187 elder trees, 13 lumberjacks and 54 bears
+0395: For 5 maulings this year 5 bear killed
+0395: Given productivity of 9.5 lumber per jack, 9 were hired
+
+Feb 0395: 6 pieces of lumber harvested
+Feb 0395: 6 lumberjacks mauled by bears
+Mar 0395: 4 pieces of lumber harvested
+Mar 0395: 1 lumberjacks mauled by bears
+Apr 0395: 2 pieces of lumber harvested
+Apr 0395: 1 new saplings sprouted
+May 0395: 1 new saplings sprouted
+May 0395: 1 lumberjacks mauled by bears
+Aug 0395: 2 pieces of lumber harvested
+Aug 0395: 2 new saplings sprouted
+Sep 0395: 1 lumberjacks mauled by bears
+Oct 0395: 2 new saplings sprouted
+Nov 0395: 1 new saplings sprouted
+Dec 0395: 1 new saplings sprouted
+Jan 0396: 1 new saplings sprouted
+
+0396: Forest has 9 saplings, 10 trees, 181 elder trees, 7 lumberjacks and 45 bears
+0396: For 9 maulings this year 9 bear killed
+0396: Given productivity of 3.5 lumber per jack, 3 were hired
+
+Feb 0396: 1 lumberjacks mauled by bears
+Mar 0396: 1 lumberjacks mauled by bears
+Oct 0396: 1 lumberjacks mauled by bears
+
+0397: Forest has 0 saplings, 18 trees, 182 elder trees, 3 lumberjacks and 42 bears
+0397: For 3 maulings this year 3 bear killed
+0397: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+Feb 0397: 1 new saplings sprouted
+Mar 0397: 1 pieces of lumber harvested
+Apr 0397: 1 pieces of lumber harvested
+Apr 0397: 1 new saplings sprouted
+May 0397: 1 pieces of lumber harvested
+Jun 0397: 1 pieces of lumber harvested
+Nov 0397: 1 lumberjacks mauled by bears
+Dec 0397: 2 new saplings sprouted
+
+0398: Forest has 4 saplings, 14 trees, 182 elder trees, 4 lumberjacks and 41 bears
+0398: For 1 maulings this year 1 bear killed
+0398: Given productivity of 2.0 lumber per jack, 2 were hired
+
+Feb 0398: 2 pieces of lumber harvested
+Mar 0398: 1 lumberjacks mauled by bears
+Oct 0398: 2 new saplings sprouted
+Dec 0398: 1 new saplings sprouted
+
+0399: Forest has 3 saplings, 17 trees, 182 elder trees, 2 lumberjacks and 40 bears
+0399: For 1 maulings this year 1 bear killed
+0399: Given low productivity of 0.7 lumber per jack, 1 was fired
+
+Oct 0399: 1 new saplings sprouted
+Dec 0399: 1 new saplings sprouted
+
+0400: Forest has 2 saplings, 19 trees, 183 elder trees, 1 lumberjacks and 41 bears
+0400: 1 bear cub matures
+0400: Given low productivity of 0.0 lumber per jack, 1 was fired
+
+0000: [BTTTTTTTTTTTTTTTTTTTTTTTTLLLL_____________________]
+0001: [TTTTTTTTTTTTTTTTTTTTTTTTLLL_______________________]
+0002: [TTTTTTTTTTTTTTTTTTTTTTTTLLL_______________________]
+0003: [TTTTTTTTTTTTTTTTTTTTTTTTLLL_______________________]
+0004: [TTTTTTTTTTTTTTTTTTTTTTTLLL________________________]
+0005: [TTTTTTTTTTTTTTTTTTTTTTLLL_________________________]
+0006: [TTTTTTTTTTTTTTTTTTTTTLLL__________________________]
+0007: [TTTTTTTTTTTTTTTTTTTTTLLL__________________________]
+0008: [TTTTTTTTTTTTTTTTTTTTTLL___________________________]
+0009: [TTTTTTTTTTTTTTTTTTTTTLL___________________________]
+0010: [TTTTTTTTTTTTTTTTTTTTLL____________________________]
+0011: [TTTTTTTTTTTTTTTTTTTTLL____________________________]
+0012: [TTTTTTTTTTTTTTTTTTTTLL____________________________]
+0013: [TTTTTTTTTTTTTTTTTTTLL_____________________________]
+0014: [TTTTTTTTTTTTTTTTTTTLL_____________________________]
+0015: [TTTTTTTTTTTTTTTTTTTLL_____________________________]
+0016: [TTTTTTTTTTTTTTTTTTTTL_____________________________]
+0017: [TTTTTTTTTTTTTTTTTTTTL_____________________________]
+0018: [TTTTTTTTTTTTTTTTTTTTL_____________________________]
+0019: [TTTTTTTTTTTTTTTTTTTTTL____________________________]
+0020: [TTTTTTTTTTTTTTTTTTTTTL____________________________]
+0021: [TTTTTTTTTTTTTTTTTTTTTL____________________________]
+0022: [TTTTTTTTTTTTTTTTTTTTTL____________________________]
+0023: [TTTTTTTTTTTTTTTTTTTTTL____________________________]
+0024: [TTTTTTTTTTTTTTTTTTTTTL____________________________]
+0025: [TTTTTTTTTTTTTTTTTTTTT_____________________________]
+0026: [TTTTTTTTTTTTTTTTTTTTT_____________________________]
+0027: [TTTTTTTTTTTTTTTTTTTTT_____________________________]
+0028: [TTTTTTTTTTTTTTTTTTTTTT____________________________]
+0029: [TTTTTTTTTTTTTTTTTTTTTT____________________________]
+0030: [TTTTTTTTTTTTTTTTTTTTTTT___________________________]
+0031: [TTTTTTTTTTTTTTTTTTTTTTT___________________________]
+0032: [TTTTTTTTTTTTTTTTTTTTTTTT__________________________]
+0033: [TTTTTTTTTTTTTTTTTTTTTTTT__________________________]
+0034: [TTTTTTTTTTTTTTTTTTTTTTTT__________________________]
+0035: [TTTTTTTTTTTTTTTTTTTTTTTT__________________________]
+0036: [BTTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0037: [BTTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0038: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0039: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0040: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0041: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0042: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0043: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0044: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0045: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0046: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0047: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0048: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0049: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0050: [BTTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0051: [BTTTTTTTTTTTTTTTTTTTTTTTTTT_______________________]
+0052: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0053: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0054: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0055: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0056: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0057: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0058: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0059: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0060: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0061: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0062: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0063: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0064: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0065: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0066: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0067: [BBTTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0068: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0069: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0070: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0071: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0072: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0073: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0074: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0075: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0076: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0077: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0078: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0079: [BBBTTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0080: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0081: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0082: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0083: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0084: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0085: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0086: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0087: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0088: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0089: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0090: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTT____________________]
+0091: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0092: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTT_____________________]
+0093: [BBBBTTTTTTTTTTTTTTTTTTTTTTTTTL____________________]
+0094: [BBBTTTTTTTTTTTTTTTTTTTTTTTTL______________________]
+0095: [BBTTTTTTTTTTTTTTTTTTTTTTL_________________________]
+0096: [BBTTTTTTTTTTTTTTTTTTTTTL__________________________]
+0097: [BTTTTTTTTTTTTTTTTTTTTT____________________________]
+0098: [BTTTTTTTTTTTTTTTTTTTTT____________________________]
+0099: [BTTTTTTTTTTTTTTTTTTTTT____________________________]
+0100: [BTTTTTTTTTTTTTTTTTTTTTT___________________________]
+0101: [BTTTTTTTTTTTTTTTTTTTTTT___________________________]
+0102: [BTTTTTTTTTTTTTTTTTTTTTT___________________________]
+0103: [BBTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0104: [BBTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0105: [BBTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0106: [BBTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0107: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0108: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0109: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0110: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0111: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0112: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0113: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0114: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0115: [BBTTTTTTTTTTTTTTTTTTTTTTTTT_______________________]
+0116: [BBTTTTTTTTTTTTTTTTTTTTTTTTT_______________________]
+0117: [BBTTTTTTTTTTTTTTTTTTTTTTTTT_______________________]
+0118: [BBBTTTTTTTTTTTTTTTTTTTTTTTTT______________________]
+0119: [BBTTTTTTTTTTTTTTTTTTTTTTTTT_______________________]
+0120: [BBTTTTTTTTTTTTTTTTTTTTTTTT________________________]
+0121: [BBTTTTTTTTTTTTTTTTTTTTTTT_________________________]
+0122: [BTTTTTTTTTTTTTTTTTTTTTTT__________________________]
+0123: [BTTTTTTTTTTTTTTTTTTTTTT___________________________]
+0124: [BTTTTTTTTTTTTTTTTTTTTT____________________________]
+0125: [BTTTTTTTTTTTTTTTTTTTTTL___________________________]
+0126: [BTTTTTTTTTTTTTTTTTTTTL____________________________]
+0127: [BTTTTTTTTTTTTTTTTTTTTL____________________________]
+0128: [BTTTTTTTTTTTTTTTTTTTL_____________________________]
+0129: [TTTTTTTTTTTTTTTTTTL_______________________________]
+0130: [TTTTTTTTTTTTTTTTTT________________________________]
+0131: [TTTTTTTTTTTTTTTTTTT_______________________________]
+0132: [TTTTTTTTTTTTTTTTTTT_______________________________]
+0133: [TTTTTTTTTTTTTTTTTTT_______________________________]
+0134: [TTTTTTTTTTTTTTTTTTTT______________________________]
+0135: [TTTTTTTTTTTTTTTTTTTT______________________________]
+0136: [BTTTTTTTTTTTTTTTTTTTT_____________________________]
+0137: [BTTTTTTTTTTTTTTTTTTTT_____________________________]
+0138: [BTTTTTTTTTTTTTTTTTTTT_____________________________]
+0139: [TTTTTTTTTTTTTTTTTTT_______________________________]
+0140: [BTTTTTTTTTTTTTTTTL________________________________]
+0141: [TTTTTTTTTTTTTTTL__________________________________]
+0142: [TTTTTTTTTTTTTTT___________________________________]
+0143: [TTTTTTTTTTTTTTTL__________________________________]
+0144: [TTTTTTTTTTTTTTT___________________________________]
+0145: [TTTTTTTTTTTTTTT___________________________________]
+0146: [TTTTTTTTTTTTTTT___________________________________]
+0147: [TTTTTTTTTTTTTTTT__________________________________]
+0148: [TTTTTTTTTTTTTTTT__________________________________]
+0149: [TTTTTTTTTTTTTTTT__________________________________]
+0150: [TTTTTTTTTTTTTTTT__________________________________]
+0151: [TTTTTTTTTTTTTTTT__________________________________]
+0152: [BTTTTTTTTTTTTTTTTT________________________________]
+0153: [BTTTTTTTTTTTTTTTTT________________________________]
+0154: [BTTTTTTTTTTTTTTTTT________________________________]
+0155: [BTTTTTTTTTTTTTTTTT________________________________]
+0156: [BTTTTTTTTTTTTTTTTT________________________________]
+0157: [BTTTTTTTTTTTTTTTTT________________________________]
+0158: [BTTTTTTTTTTTTTTTTTT_______________________________]
+0159: [BTTTTTTTTTTTTTTTTTT_______________________________]
+0160: [BTTTTTTTTTTTTTTTTTT_______________________________]
+0161: [BTTTTTTTTTTTTTTTTTT_______________________________]
+0162: [BTTTTTTTTTTTTTTTTTT_______________________________]
+0163: [BTTTTTTTTTTTTTTTTTT_______________________________]
+0164: [BBTTTTTTTTTTTTTTTTTT______________________________]
+0165: [BBTTTTTTTTTTTTTTTTTT______________________________]
+0166: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0167: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0168: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0169: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0170: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0171: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0172: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0173: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0174: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0175: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0176: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0177: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0178: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0179: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0180: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0181: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0182: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0183: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0184: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0185: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0186: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0187: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0188: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0189: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0190: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0191: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0192: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0193: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0194: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0195: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0196: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0197: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0198: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0199: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0200: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0201: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0202: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0203: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0204: [BBBBTTTTTTTTTTTTTTTTTTT___________________________]
+0205: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0206: [BBBTTTTTTTTTTTTTTTTTTT____________________________]
+0207: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0208: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0209: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0210: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0211: [BBTTTTTTTTTTTTTTTTTTT_____________________________]
+0212: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0213: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0214: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0215: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0216: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0217: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0218: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0219: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0220: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0221: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0222: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0223: [BBTTTTTTTTTTTTTTTTTTTT____________________________]
+0224: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0225: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0226: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0227: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0228: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0229: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0230: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0231: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0232: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0233: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0234: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0235: [BBBTTTTTTTTTTTTTTTTTTTT___________________________]
+0236: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0237: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0238: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0239: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0240: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0241: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0242: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0243: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0244: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0245: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0246: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0247: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0248: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0249: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0250: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0251: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0252: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0253: [BBBBTTTTTTTTTTTTTTTTTTT___________________________]
+0254: [BBBBTTTTTTTTTTTTTTTTTTT___________________________]
+0255: [BBBBTTTTTTTTTTTTTTTTTTT___________________________]
+0256: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0257: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0258: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0259: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0260: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0261: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0262: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0263: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0264: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0265: [BBBBTTTTTTTTTTTTTTTTTTTT__________________________]
+0266: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0267: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0268: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0269: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0270: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0271: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0272: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0273: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0274: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0275: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0276: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0277: [BBBBBTTTTTTTTTTTTTTTTTTTT_________________________]
+0278: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0279: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0280: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0281: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0282: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0283: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0284: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0285: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0286: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0287: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0288: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0289: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0290: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0291: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0292: [BBBBBBTTTTTTTTTTTTTTTTTTTT________________________]
+0293: [BBBBBBBTTTTTTTTTTTTTTTTTTTT_______________________]
+0294: [BBBBBBBTTTTTTTTTTTTTTTTTTTT_______________________]
+0295: [BBBBBBBTTTTTTTTTTTTTTTTTTTT_______________________]
+0296: [BBBBBBBTTTTTTTTTTTTTTTTTTTT_______________________]
+0297: [BBBBBBBTTTTTTTTTTTTTTTTTTTT_______________________]
+0298: [BBBBBBBTTTTTTTTTTTTTTTTTTTT_______________________]
+0299: [BBBBBBBTTTTTTTTTTTTTTTTTTTL_______________________]
+0300: [BBBBBBTTTTTTTTTTTTTTTTTTTL________________________]
+0301: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0302: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0303: [BBBBBTTTTTTTTTTTTTTTTT____________________________]
+0304: [BBBBTTTTTTTTTTTTTTTTT_____________________________]
+0305: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0306: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0307: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0308: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0309: [BBBBBTTTTTTTTTTTTTTTTTTT__________________________]
+0310: [BBBBTTTTTTTTTTTTTTTTTTT___________________________]
+0311: [BBBBTTTTTTTTTTTTTTTTTTTL__________________________]
+0312: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0313: [BBBTTTTTTTTTTTTTTTTT______________________________]
+0314: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0315: [BBTTTTTTTTTTTTTTTT________________________________]
+0316: [BBTTTTTTTTTTTTTTTT________________________________]
+0317: [BBTTTTTTTTTTTTTTTT________________________________]
+0318: [BBTTTTTTTTTTTTTTTT________________________________]
+0319: [BBTTTTTTTTTTTTTTTT________________________________]
+0320: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0321: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0322: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0323: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0324: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0325: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0326: [BBTTTTTTTTTTTTTTTTT_______________________________]
+0327: [BBBTTTTTTTTTTTTTTTTT______________________________]
+0328: [BBBTTTTTTTTTTTTTTTTT______________________________]
+0329: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0330: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0331: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0332: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0333: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0334: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0335: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0336: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0337: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0338: [BBBTTTTTTTTTTTTTTTTTT_____________________________]
+0339: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0340: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0341: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0342: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0343: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0344: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0345: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0346: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0347: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0348: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0349: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0350: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0351: [BBBBTTTTTTTTTTTTTTTTTT____________________________]
+0352: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0353: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0354: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0355: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0356: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0357: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0358: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0359: [BBBBBTTTTTTTTTTTTTTTTTT___________________________]
+0360: [BBBBBTTTTTTTTTTTTTTTTT____________________________]
+0361: [BBBBTTTTTTTTTTTTTTTTL_____________________________]
+0362: [BBBBTTTTTTTTTTTTTTL_______________________________]
+0363: [BBBTTTTTTTTTTTTTT_________________________________]
+0364: [BBBTTTTTTTTTTTTTT_________________________________]
+0365: [BBBTTTTTTTTTTTTTT_________________________________]
+0366: [BBBTTTTTTTTTTTTTT_________________________________]
+0367: [BBBTTTTTTTTTTTTTTT________________________________]
+0368: [BBBTTTTTTTTTTTTTTT________________________________]
+0369: [BBBTTTTTTTTTTTTTTT________________________________]
+0370: [BBBTTTTTTTTTTTTTTT________________________________]
+0371: [BBBTTTTTTTTTTTTTTT________________________________]
+0372: [BBBTTTTTTTTTTTTTTT________________________________]
+0373: [BBBTTTTTTTTTTTTTTT________________________________]
+0374: [BBBTTTTTTTTTTTTTTT________________________________]
+0375: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0376: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0377: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0378: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0379: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0380: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0381: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0382: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0383: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0384: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0385: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0386: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0387: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0388: [BBBBTTTTTTTTTTTTTTTT______________________________]
+0389: [BBBBTTTTTTTTTTTTTTTTT_____________________________]
+0390: [BBBBTTTTTTTTTTTTTTTTT_____________________________]
+0391: [BBBBBTTTTTTTTTTTTTTTTT____________________________]
+0392: [BBBBTTTTTTTTTTTTTTTTT_____________________________]
+0393: [BBBBTTTTTTTTTTTTTTTTT_____________________________]
+0394: [BBBBTTTTTTTTTTTTTTTTT_____________________________]
+0395: [BBBBTTTTTTTTTTTTTTTL______________________________]
+0396: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0397: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0398: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0399: [BBBTTTTTTTTTTTTTTTT_______________________________]
+0400: [BBBTTTTTTTTTTTTTTTT_______________________________]
