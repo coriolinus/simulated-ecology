@@ -191,7 +191,7 @@ class MapObject():
 				if y + self.y < 0 or y + self.y > self.map.edge - 1:
 					continue
 				
-				if not x == 0 and y == 0:
+				if not (x == 0 and y == 0):
 					yield x + self.x, y + self.y
 				
 	def colocated(self, x=None, y=None):
