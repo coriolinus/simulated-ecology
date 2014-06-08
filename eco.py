@@ -20,26 +20,30 @@ class Simulation():
 		
 		return "{} {:04}".format(month, year)
 
+	def tick(self):
+		Tree.monthlySaplings     = 0
+		Lumberjack.monthlyLumber = 0
+		Bear.monthlyMaulings     = 0
+		
+		self.month += 1
+		self.map.tick()
+		
+		# monthly log
+		if Lumberjack.monthlyLumber > 0: 
+			print("{}: {} pieces of lumber harvested".format(self.dates(), Lumberjack.monthlyLumber))
+		if Tree.monthlySaplings > 0:     
+			print("{}: {} new saplings sprouted".format(self.dates(), Tree.monthlySaplings))
+		if Bear.monthlyMaulings > 0:
+			print("{}: {} lumberjacks mauled by bears".format(self.dates(), Bear.monthlyMaulings))
+		
+		
 	def simulate(self, years):
 		map = self.map
 		
 		self.annual()
 		
 		while self.month < years * 12:
-			Tree.monthlySaplings     = 0
-			Lumberjack.monthlyLumber = 0
-			Bear.monthlyMaulings     = 0
-			
-			self.month += 1
-			map.tick()
-			
-			# monthly log
-			if Lumberjack.monthlyLumber > 0: 
-				print("{}: {} pieces of lumber harvested".format(self.dates(), Lumberjack.monthlyLumber))
-			if Tree.monthlySaplings > 0:     
-				print("{}: {} new saplings sprouted".format(self.dates(), Tree.monthlySaplings))
-			if Bear.monthlyMaulings > 0:
-				print("{}: {} lumberjacks mauled by bears".format(self.dates(), Bear.monthlyMaulings))
+			self.tick()
 			
 			if map.count(Tree) == 0: # trees are gone; simulation ends
 				self.annual()
@@ -76,11 +80,14 @@ class Simulation():
 			y = random.randint(0, map.edge - 1)
 			map.objects.append(Bear(map, x, y))
 		else:
-			dbp = -Bear.annualMaulings
-			for i in range(Bear.annualMaulings):
-				if map.count(Bear) == 0:
-					break
-				map.choice(Bear).remove()
+			# logic to kill 1 bear / mauling; results in too few bears
+			# dbp = max(-Bear.annualMaulings, -self.map.count(Bear))
+			# for i in range(Bear.annualMaulings):
+				# if map.count(Bear) == 0:
+					# break
+				# map.choice(Bear).remove()
+			dbp = -1
+			map.choice(Bear).remove()
 		maulings = Bear.annualMaulings
 		Bear.annualMaulings = 0
 		
