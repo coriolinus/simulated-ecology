@@ -10,3 +10,8 @@ Runs in Python 3.4.1. Test output generated with
 
     python eco.py --edge 25 > out.txt
     
+For the GUI, run
+
+    python ecogui.py
+    
+It takes identical command-line arguments as eco.py. 
